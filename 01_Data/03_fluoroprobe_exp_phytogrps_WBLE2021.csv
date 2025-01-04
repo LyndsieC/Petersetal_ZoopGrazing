@@ -1,0 +1,1441 @@
+"","Event","SampleDate","Type","Treatment","Rep","ZP_Dens_num_L","Phyto_grp","Final_chl_ugL","Initial_chl_ugL"
+"1","Early August 2021",2021-08-09,"MESO",0,"1",0,"Bluegreen",14.06,13.07
+"2","Early August 2021",2021-08-09,"MESO",0,"1",0,"Cryptophyta",4.25,6.36
+"3","Early August 2021",2021-08-09,"MESO",0,"1",0,"Diatoms",11.34,4.38
+"4","Early August 2021",2021-08-09,"MESO",0,"1",0,"Green Algae",3.54,4.61
+"5","Early August 2021",2021-08-09,"MESO",0,"1",0,"Yellow Subst.",1.81,2.02
+"6","Early August 2021",2021-08-09,"MESO",0,"2",0,"Bluegreen",13.7,13.65
+"7","Early August 2021",2021-08-09,"MESO",0,"2",0,"Cryptophyta",5.24,5.86
+"8","Early August 2021",2021-08-09,"MESO",0,"2",0,"Diatoms",10.98,4.3
+"9","Early August 2021",2021-08-09,"MESO",0,"2",0,"Green Algae",5.96,3.96
+"10","Early August 2021",2021-08-09,"MESO",0,"2",0,"Yellow Subst.",1.84,2.11
+"11","Early August 2021",2021-08-09,"MESO",0,"3",0,"Bluegreen",13.21,12.85
+"12","Early August 2021",2021-08-09,"MESO",0,"3",0,"Cryptophyta",7.15,7.77
+"13","Early August 2021",2021-08-09,"MESO",0,"3",0,"Diatoms",9.48,3.53
+"14","Early August 2021",2021-08-09,"MESO",0,"3",0,"Green Algae",4.57,4.11
+"15","Early August 2021",2021-08-09,"MESO",0,"3",0,"Yellow Subst.",1.96,2.27
+"16","Early August 2021",2021-08-09,"MESO",0,"4",0,"Bluegreen",15.15,13.34
+"17","Early August 2021",2021-08-09,"MESO",0,"4",0,"Cryptophyta",5.12,4.76
+"18","Early August 2021",2021-08-09,"MESO",0,"4",0,"Diatoms",10.53,6.47
+"19","Early August 2021",2021-08-09,"MESO",0,"4",0,"Green Algae",5.9,4.7
+"20","Early August 2021",2021-08-09,"MESO",0,"4",0,"Yellow Subst.",1.92,2.08
+"21","Early August 2021",2021-08-09,"MICRO",0.25,"1",NA,"Bluegreen",5.7,3.6
+"22","Early August 2021",2021-08-09,"MICRO",0.25,"1",NA,"Cryptophyta",2.48,3.06
+"23","Early August 2021",2021-08-09,"MICRO",0.25,"1",NA,"Diatoms",4.92,1.56
+"24","Early August 2021",2021-08-09,"MICRO",0.25,"1",NA,"Green Algae",1.23,0.73
+"25","Early August 2021",2021-08-09,"MICRO",0.25,"1",NA,"Yellow Subst.",1.12,1.1
+"26","Early August 2021",2021-08-09,"MICRO",0.25,"2",NA,"Bluegreen",5.5,4.76
+"27","Early August 2021",2021-08-09,"MICRO",0.25,"2",NA,"Cryptophyta",4.94,4.28
+"28","Early August 2021",2021-08-09,"MICRO",0.25,"2",NA,"Diatoms",2.93,1.19
+"29","Early August 2021",2021-08-09,"MICRO",0.25,"2",NA,"Green Algae",2.04,0.28
+"30","Early August 2021",2021-08-09,"MICRO",0.25,"2",NA,"Yellow Subst.",1.28,1.14
+"31","Early August 2021",2021-08-09,"MICRO",0.25,"3",NA,"Bluegreen",7.55,5.77
+"32","Early August 2021",2021-08-09,"MICRO",0.25,"3",NA,"Cryptophyta",2.46,1.52
+"33","Early August 2021",2021-08-09,"MICRO",0.25,"3",NA,"Diatoms",5.82,2.86
+"34","Early August 2021",2021-08-09,"MICRO",0.25,"3",NA,"Green Algae",1.93,0.68
+"35","Early August 2021",2021-08-09,"MICRO",0.25,"3",NA,"Yellow Subst.",1.05,0.97
+"36","Early August 2021",2021-08-09,"MICRO",0.25,"4",NA,"Bluegreen",6.77,4.53
+"37","Early August 2021",2021-08-09,"MICRO",0.25,"4",NA,"Cryptophyta",1.47,1.4
+"38","Early August 2021",2021-08-09,"MICRO",0.25,"4",NA,"Diatoms",5.79,3.27
+"39","Early August 2021",2021-08-09,"MICRO",0.25,"4",NA,"Green Algae",1.92,0.52
+"40","Early August 2021",2021-08-09,"MICRO",0.25,"4",NA,"Yellow Subst.",1,1.02
+"41","Early August 2021",2021-08-09,"MICRO",0.5,"1",NA,"Bluegreen",12.05,8.8
+"42","Early August 2021",2021-08-09,"MICRO",0.5,"1",NA,"Cryptophyta",7.09,5.02
+"43","Early August 2021",2021-08-09,"MICRO",0.5,"1",NA,"Diatoms",6.9,4.13
+"44","Early August 2021",2021-08-09,"MICRO",0.5,"1",NA,"Green Algae",3.74,1.78
+"45","Early August 2021",2021-08-09,"MICRO",0.5,"1",NA,"Yellow Subst.",1.58,1.46
+"46","Early August 2021",2021-08-09,"MICRO",0.5,"2",NA,"Bluegreen",13.11,9.34
+"47","Early August 2021",2021-08-09,"MICRO",0.5,"2",NA,"Cryptophyta",4.65,7.36
+"48","Early August 2021",2021-08-09,"MICRO",0.5,"2",NA,"Diatoms",9.91,1.95
+"49","Early August 2021",2021-08-09,"MICRO",0.5,"2",NA,"Green Algae",3.45,1.65
+"50","Early August 2021",2021-08-09,"MICRO",0.5,"2",NA,"Yellow Subst.",1.41,1.52
+"51","Early August 2021",2021-08-09,"MICRO",0.5,"3",NA,"Bluegreen",13.69,11.38
+"52","Early August 2021",2021-08-09,"MICRO",0.5,"3",NA,"Cryptophyta",4.91,3.02
+"53","Early August 2021",2021-08-09,"MICRO",0.5,"3",NA,"Diatoms",10.42,6.17
+"54","Early August 2021",2021-08-09,"MICRO",0.5,"3",NA,"Green Algae",2.72,2.03
+"55","Early August 2021",2021-08-09,"MICRO",0.5,"3",NA,"Yellow Subst.",1.59,1.26
+"56","Early August 2021",2021-08-09,"MICRO",0.5,"4",NA,"Bluegreen",11.7,10.47
+"57","Early August 2021",2021-08-09,"MICRO",0.5,"4",NA,"Cryptophyta",5.43,3.14
+"58","Early August 2021",2021-08-09,"MICRO",0.5,"4",NA,"Diatoms",9.7,6.59
+"59","Early August 2021",2021-08-09,"MICRO",0.5,"4",NA,"Green Algae",3.92,0.98
+"60","Early August 2021",2021-08-09,"MICRO",0.5,"4",NA,"Yellow Subst.",1.44,1.28
+"61","Early August 2021",2021-08-09,"MICRO",0.75,"1",NA,"Bluegreen",20.48,12.29
+"62","Early August 2021",2021-08-09,"MICRO",0.75,"1",NA,"Cryptophyta",5.58,15.75
+"63","Early August 2021",2021-08-09,"MICRO",0.75,"1",NA,"Diatoms",14.54,1.04
+"64","Early August 2021",2021-08-09,"MICRO",0.75,"1",NA,"Green Algae",4.53,0.4
+"65","Early August 2021",2021-08-09,"MICRO",0.75,"1",NA,"Yellow Subst.",1.66,2.09
+"66","Early August 2021",2021-08-09,"MICRO",0.75,"2",NA,"Bluegreen",17.95,14.71
+"67","Early August 2021",2021-08-09,"MICRO",0.75,"2",NA,"Cryptophyta",6.61,13.22
+"68","Early August 2021",2021-08-09,"MICRO",0.75,"2",NA,"Diatoms",14.81,3.81
+"69","Early August 2021",2021-08-09,"MICRO",0.75,"2",NA,"Green Algae",4.81,0.61
+"70","Early August 2021",2021-08-09,"MICRO",0.75,"2",NA,"Yellow Subst.",1.76,1.79
+"71","Early August 2021",2021-08-09,"MICRO",0.75,"3",NA,"Bluegreen",19.28,12.11
+"72","Early August 2021",2021-08-09,"MICRO",0.75,"3",NA,"Cryptophyta",5.99,7.15
+"73","Early August 2021",2021-08-09,"MICRO",0.75,"3",NA,"Diatoms",15.3,6.42
+"74","Early August 2021",2021-08-09,"MICRO",0.75,"3",NA,"Green Algae",5.18,2.66
+"75","Early August 2021",2021-08-09,"MICRO",0.75,"3",NA,"Yellow Subst.",1.75,1.73
+"76","Early August 2021",2021-08-09,"MICRO",0.75,"4",NA,"Bluegreen",18.12,14.27
+"77","Early August 2021",2021-08-09,"MICRO",0.75,"4",NA,"Cryptophyta",7.13,3.2
+"78","Early August 2021",2021-08-09,"MICRO",0.75,"4",NA,"Diatoms",15.28,11
+"79","Early August 2021",2021-08-09,"MICRO",0.75,"4",NA,"Green Algae",4.81,1.86
+"80","Early August 2021",2021-08-09,"MICRO",0.75,"4",NA,"Yellow Subst.",1.78,1.52
+"81","Early August 2021",2021-08-09,"MESO",1,"1",30,"Bluegreen",11.6,10.66
+"82","Early August 2021",2021-08-09,"MESO",1,"1",30,"Cryptophyta",4.68,2.02
+"83","Early August 2021",2021-08-09,"MESO",1,"1",30,"Diatoms",11.7,8.07
+"84","Early August 2021",2021-08-09,"MESO",1,"1",30,"Green Algae",3.85,3.09
+"85","Early August 2021",2021-08-09,"MESO",1,"1",30,"Yellow Subst.",2.03,2.34
+"86","Early August 2021",2021-08-09,"MICRO",1,"1",30,"Bluegreen",25.96,19.25
+"87","Early August 2021",2021-08-09,"MICRO",1,"1",30,"Cryptophyta",9.64,7.46
+"88","Early August 2021",2021-08-09,"MICRO",1,"1",30,"Diatoms",18.17,11.04
+"89","Early August 2021",2021-08-09,"MICRO",1,"1",30,"Green Algae",5.7,2.75
+"90","Early August 2021",2021-08-09,"MICRO",1,"1",30,"Yellow Subst.",2.19,2.02
+"91","Early August 2021",2021-08-09,"MESO",1,"2",30,"Bluegreen",10.18,10.72
+"92","Early August 2021",2021-08-09,"MESO",1,"2",30,"Cryptophyta",4.44,2.98
+"93","Early August 2021",2021-08-09,"MESO",1,"2",30,"Diatoms",11.57,6.69
+"94","Early August 2021",2021-08-09,"MESO",1,"2",30,"Green Algae",5.42,3.93
+"95","Early August 2021",2021-08-09,"MESO",1,"2",30,"Yellow Subst.",2.08,2.27
+"96","Early August 2021",2021-08-09,"MICRO",1,"2",30,"Bluegreen",21.72,21.49
+"97","Early August 2021",2021-08-09,"MICRO",1,"2",30,"Cryptophyta",9.07,4.78
+"98","Early August 2021",2021-08-09,"MICRO",1,"2",30,"Diatoms",19.03,13.94
+"99","Early August 2021",2021-08-09,"MICRO",1,"2",30,"Green Algae",7.6,2.82
+"100","Early August 2021",2021-08-09,"MICRO",1,"2",30,"Yellow Subst.",2.13,1.73
+"101","Early August 2021",2021-08-09,"MESO",1,"3",30,"Bluegreen",12.45,10.53
+"102","Early August 2021",2021-08-09,"MESO",1,"3",30,"Cryptophyta",3.25,3.47
+"103","Early August 2021",2021-08-09,"MESO",1,"3",30,"Diatoms",11.66,7.1
+"104","Early August 2021",2021-08-09,"MESO",1,"3",30,"Green Algae",3.79,3.19
+"105","Early August 2021",2021-08-09,"MESO",1,"3",30,"Yellow Subst.",1.88,2.54
+"106","Early August 2021",2021-08-09,"MICRO",1,"3",30,"Bluegreen",25.48,17.02
+"107","Early August 2021",2021-08-09,"MICRO",1,"3",30,"Cryptophyta",6.37,17.14
+"108","Early August 2021",2021-08-09,"MICRO",1,"3",30,"Diatoms",21.04,3.27
+"109","Early August 2021",2021-08-09,"MICRO",1,"3",30,"Green Algae",7.3,1.92
+"110","Early August 2021",2021-08-09,"MICRO",1,"3",30,"Yellow Subst.",1.88,2.42
+"111","Early August 2021",2021-08-09,"MESO",1,"4",30,"Bluegreen",11.5,10.42
+"112","Early August 2021",2021-08-09,"MESO",1,"4",30,"Cryptophyta",3.08,3.52
+"113","Early August 2021",2021-08-09,"MESO",1,"4",30,"Diatoms",14.23,6.66
+"114","Early August 2021",2021-08-09,"MESO",1,"4",30,"Green Algae",4.85,3.34
+"115","Early August 2021",2021-08-09,"MESO",1,"4",30,"Yellow Subst.",2.06,2.42
+"116","Early August 2021",2021-08-09,"MICRO",1,"4",30,"Bluegreen",26.36,18.74
+"117","Early August 2021",2021-08-09,"MICRO",1,"4",30,"Cryptophyta",9.62,11.45
+"118","Early August 2021",2021-08-09,"MICRO",1,"4",30,"Diatoms",18.47,9.74
+"119","Early August 2021",2021-08-09,"MICRO",1,"4",30,"Green Algae",6.58,1.44
+"120","Early August 2021",2021-08-09,"MICRO",1,"4",30,"Yellow Subst.",2.08,2.21
+"121","Early August 2021",2021-08-09,"MESO",2,"1",50,"Bluegreen",9.81,10.89
+"122","Early August 2021",2021-08-09,"MESO",2,"1",50,"Cryptophyta",3.98,4.66
+"123","Early August 2021",2021-08-09,"MESO",2,"1",50,"Diatoms",10.84,5.98
+"124","Early August 2021",2021-08-09,"MESO",2,"1",50,"Green Algae",4.3,2.35
+"125","Early August 2021",2021-08-09,"MESO",2,"1",50,"Yellow Subst.",2.18,2.86
+"126","Early August 2021",2021-08-09,"MESO",2,"2",50,"Bluegreen",10.5,11.79
+"127","Early August 2021",2021-08-09,"MESO",2,"2",50,"Cryptophyta",5.7,8.97
+"128","Early August 2021",2021-08-09,"MESO",2,"2",50,"Diatoms",11.38,2.56
+"129","Early August 2021",2021-08-09,"MESO",2,"2",50,"Green Algae",3.97,1.16
+"130","Early August 2021",2021-08-09,"MESO",2,"2",50,"Yellow Subst.",2.39,3.3
+"131","Early August 2021",2021-08-09,"MESO",2,"3",50,"Bluegreen",10.7,11.17
+"132","Early August 2021",2021-08-09,"MESO",2,"3",50,"Cryptophyta",3.71,4.46
+"133","Early August 2021",2021-08-09,"MESO",2,"3",50,"Diatoms",11.04,6.21
+"134","Early August 2021",2021-08-09,"MESO",2,"3",50,"Green Algae",2.67,1.75
+"135","Early August 2021",2021-08-09,"MESO",2,"3",50,"Yellow Subst.",2.16,3
+"136","Early August 2021",2021-08-09,"MESO",2,"4",50,"Bluegreen",11.93,12.28
+"137","Early August 2021",2021-08-09,"MESO",2,"4",50,"Cryptophyta",3.43,7.35
+"138","Early August 2021",2021-08-09,"MESO",2,"4",50,"Diatoms",14.52,4.72
+"139","Early August 2021",2021-08-09,"MESO",2,"4",50,"Green Algae",2.09,1.04
+"140","Early August 2021",2021-08-09,"MESO",2,"4",50,"Yellow Subst.",2.24,3.2
+"141","Early August 2021",2021-08-09,"MESO",4,"1",70,"Bluegreen",12.16,11.98
+"142","Early August 2021",2021-08-09,"MESO",4,"1",70,"Cryptophyta",2.8,9.26
+"143","Early August 2021",2021-08-09,"MESO",4,"1",70,"Diatoms",13.71,3.3
+"144","Early August 2021",2021-08-09,"MESO",4,"1",70,"Green Algae",3.17,0.97
+"145","Early August 2021",2021-08-09,"MESO",4,"1",70,"Yellow Subst.",2.12,3.39
+"146","Early August 2021",2021-08-09,"MESO",4,"2",70,"Bluegreen",10.34,10.78
+"147","Early August 2021",2021-08-09,"MESO",4,"2",70,"Cryptophyta",3.92,5.68
+"148","Early August 2021",2021-08-09,"MESO",4,"2",70,"Diatoms",11.82,5.19
+"149","Early August 2021",2021-08-09,"MESO",4,"2",70,"Green Algae",2.26,1.19
+"150","Early August 2021",2021-08-09,"MESO",4,"2",70,"Yellow Subst.",2.18,3.26
+"151","Early August 2021",2021-08-09,"MESO",4,"3",70,"Bluegreen",10.04,10.09
+"152","Early August 2021",2021-08-09,"MESO",4,"3",70,"Cryptophyta",4.08,4.52
+"153","Early August 2021",2021-08-09,"MESO",4,"3",70,"Diatoms",9.82,4.75
+"154","Early August 2021",2021-08-09,"MESO",4,"3",70,"Green Algae",2.48,1.4
+"155","Early August 2021",2021-08-09,"MESO",4,"3",70,"Yellow Subst.",2.17,3.12
+"156","Early August 2021",2021-08-09,"MESO",4,"4",70,"Bluegreen",8.82,11.64
+"157","Early August 2021",2021-08-09,"MESO",4,"4",70,"Cryptophyta",2.2,2.64
+"158","Early August 2021",2021-08-09,"MESO",4,"4",70,"Diatoms",11.99,7.69
+"159","Early August 2021",2021-08-09,"MESO",4,"4",70,"Green Algae",3.14,1.1
+"160","Early August 2021",2021-08-09,"MESO",4,"4",70,"Yellow Subst.",2.12,3.09
+"161","Early September 2021",2021-09-10,"MESO",0,"1",0,"Bluegreen",5.68,7.2
+"162","Early September 2021",2021-09-10,"MESO",0,"1",0,"Cryptophyta",1,2.74
+"163","Early September 2021",2021-09-10,"MESO",0,"1",0,"Diatoms",12.54,6.68
+"164","Early September 2021",2021-09-10,"MESO",0,"1",0,"Green Algae",5.31,1.76
+"165","Early September 2021",2021-09-10,"MESO",0,"1",0,"Yellow Subst.",0.98,1.15
+"166","Early September 2021",2021-09-10,"MESO",0,"2",0,"Bluegreen",6.53,6.51
+"167","Early September 2021",2021-09-10,"MESO",0,"2",0,"Cryptophyta",1.41,2.42
+"168","Early September 2021",2021-09-10,"MESO",0,"2",0,"Diatoms",14.3,5.79
+"169","Early September 2021",2021-09-10,"MESO",0,"2",0,"Green Algae",4.51,1.4
+"170","Early September 2021",2021-09-10,"MESO",0,"2",0,"Yellow Subst.",1.06,1.2
+"171","Early September 2021",2021-09-10,"MESO",0,"3",0,"Bluegreen",6.7,6.68
+"172","Early September 2021",2021-09-10,"MESO",0,"3",0,"Cryptophyta",0.64,2.66
+"173","Early September 2021",2021-09-10,"MESO",0,"3",0,"Diatoms",14.69,6.07
+"174","Early September 2021",2021-09-10,"MESO",0,"3",0,"Green Algae",4.62,2
+"175","Early September 2021",2021-09-10,"MESO",0,"3",0,"Yellow Subst.",1.08,1.18
+"176","Early September 2021",2021-09-10,"MESO",0,"4",0,"Bluegreen",5.36,7.02
+"177","Early September 2021",2021-09-10,"MESO",0,"4",0,"Cryptophyta",1.08,2.42
+"178","Early September 2021",2021-09-10,"MESO",0,"4",0,"Diatoms",12.91,6.11
+"179","Early September 2021",2021-09-10,"MESO",0,"4",0,"Green Algae",3.79,1.89
+"180","Early September 2021",2021-09-10,"MESO",0,"4",0,"Yellow Subst.",1.08,1.29
+"181","Early September 2021",2021-09-10,"MICRO",0.25,"1",NA,"Bluegreen",2.18,1.82
+"182","Early September 2021",2021-09-10,"MICRO",0.25,"1",NA,"Cryptophyta",0.77,1.78
+"183","Early September 2021",2021-09-10,"MICRO",0.25,"1",NA,"Diatoms",7.1,1.83
+"184","Early September 2021",2021-09-10,"MICRO",0.25,"1",NA,"Green Algae",2.54,0.17
+"185","Early September 2021",2021-09-10,"MICRO",0.25,"1",NA,"Yellow Subst.",0.55,0.55
+"186","Early September 2021",2021-09-10,"MICRO",0.25,"2",NA,"Bluegreen",2.18,1.91
+"187","Early September 2021",2021-09-10,"MICRO",0.25,"2",NA,"Cryptophyta",0.41,0.74
+"188","Early September 2021",2021-09-10,"MICRO",0.25,"2",NA,"Diatoms",7.46,2.06
+"189","Early September 2021",2021-09-10,"MICRO",0.25,"2",NA,"Green Algae",2.84,0.08
+"190","Early September 2021",2021-09-10,"MICRO",0.25,"2",NA,"Yellow Subst.",0.56,0.52
+"191","Early September 2021",2021-09-10,"MICRO",0.25,"3",NA,"Bluegreen",2.26,1.97
+"192","Early September 2021",2021-09-10,"MICRO",0.25,"3",NA,"Cryptophyta",0.42,0.58
+"193","Early September 2021",2021-09-10,"MICRO",0.25,"3",NA,"Diatoms",7.46,2.48
+"194","Early September 2021",2021-09-10,"MICRO",0.25,"3",NA,"Green Algae",2.7,0.32
+"195","Early September 2021",2021-09-10,"MICRO",0.25,"3",NA,"Yellow Subst.",0.52,0.53
+"196","Early September 2021",2021-09-10,"MICRO",0.25,"4",NA,"Bluegreen",2.32,2.02
+"197","Early September 2021",2021-09-10,"MICRO",0.25,"4",NA,"Cryptophyta",1.28,0.8
+"198","Early September 2021",2021-09-10,"MICRO",0.25,"4",NA,"Diatoms",6.91,2.21
+"199","Early September 2021",2021-09-10,"MICRO",0.25,"4",NA,"Green Algae",2.61,0.22
+"200","Early September 2021",2021-09-10,"MICRO",0.25,"4",NA,"Yellow Subst.",0.57,0.55
+"201","Early September 2021",2021-09-10,"MICRO",0.5,"1",NA,"Bluegreen",4.94,3.54
+"202","Early September 2021",2021-09-10,"MICRO",0.5,"1",NA,"Cryptophyta",0.62,1.83
+"203","Early September 2021",2021-09-10,"MICRO",0.5,"1",NA,"Diatoms",16.18,3.79
+"204","Early September 2021",2021-09-10,"MICRO",0.5,"1",NA,"Green Algae",6.5,1.06
+"205","Early September 2021",2021-09-10,"MICRO",0.5,"1",NA,"Yellow Subst.",0.81,0.77
+"206","Early September 2021",2021-09-10,"MICRO",0.5,"2",NA,"Bluegreen",4.85,3.32
+"207","Early September 2021",2021-09-10,"MICRO",0.5,"2",NA,"Cryptophyta",1.12,1.54
+"208","Early September 2021",2021-09-10,"MICRO",0.5,"2",NA,"Diatoms",14.75,4.06
+"209","Early September 2021",2021-09-10,"MICRO",0.5,"2",NA,"Green Algae",5.97,1.06
+"210","Early September 2021",2021-09-10,"MICRO",0.5,"2",NA,"Yellow Subst.",0.74,0.71
+"211","Early September 2021",2021-09-10,"MICRO",0.5,"3",NA,"Bluegreen",4.9,3.95
+"212","Early September 2021",2021-09-10,"MICRO",0.5,"3",NA,"Cryptophyta",0.57,0.86
+"213","Early September 2021",2021-09-10,"MICRO",0.5,"3",NA,"Diatoms",16.67,5
+"214","Early September 2021",2021-09-10,"MICRO",0.5,"3",NA,"Green Algae",6.14,0.98
+"215","Early September 2021",2021-09-10,"MICRO",0.5,"3",NA,"Yellow Subst.",0.79,0.71
+"216","Early September 2021",2021-09-10,"MICRO",0.5,"4",NA,"Bluegreen",4.54,3.45
+"217","Early September 2021",2021-09-10,"MICRO",0.5,"4",NA,"Cryptophyta",0.98,1.72
+"218","Early September 2021",2021-09-10,"MICRO",0.5,"4",NA,"Diatoms",16.05,3.94
+"219","Early September 2021",2021-09-10,"MICRO",0.5,"4",NA,"Green Algae",7.35,1.1
+"220","Early September 2021",2021-09-10,"MICRO",0.5,"4",NA,"Yellow Subst.",0.66,0.81
+"221","Early September 2021",2021-09-10,"MICRO",0.75,"1",NA,"Bluegreen",7.44,5.38
+"222","Early September 2021",2021-09-10,"MICRO",0.75,"1",NA,"Cryptophyta",0.91,1.83
+"223","Early September 2021",2021-09-10,"MICRO",0.75,"1",NA,"Diatoms",23.9,6.54
+"224","Early September 2021",2021-09-10,"MICRO",0.75,"1",NA,"Green Algae",10.02,1.77
+"225","Early September 2021",2021-09-10,"MICRO",0.75,"1",NA,"Yellow Subst.",0.92,0.88
+"226","Early September 2021",2021-09-10,"MICRO",0.75,"2",NA,"Bluegreen",7.73,5.75
+"227","Early September 2021",2021-09-10,"MICRO",0.75,"2",NA,"Cryptophyta",1.01,1.81
+"228","Early September 2021",2021-09-10,"MICRO",0.75,"2",NA,"Diatoms",23.12,7.12
+"229","Early September 2021",2021-09-10,"MICRO",0.75,"2",NA,"Green Algae",8.86,1.49
+"230","Early September 2021",2021-09-10,"MICRO",0.75,"2",NA,"Yellow Subst.",1.01,0.94
+"231","Early September 2021",2021-09-10,"MICRO",0.75,"3",NA,"Bluegreen",7.26,5.24
+"232","Early September 2021",2021-09-10,"MICRO",0.75,"3",NA,"Cryptophyta",1.14,1.72
+"233","Early September 2021",2021-09-10,"MICRO",0.75,"3",NA,"Diatoms",24.05,7.24
+"234","Early September 2021",2021-09-10,"MICRO",0.75,"3",NA,"Green Algae",9.02,1.7
+"235","Early September 2021",2021-09-10,"MICRO",0.75,"3",NA,"Yellow Subst.",1.09,0.96
+"236","Early September 2021",2021-09-10,"MICRO",0.75,"4",NA,"Bluegreen",7.52,5.26
+"237","Early September 2021",2021-09-10,"MICRO",0.75,"4",NA,"Cryptophyta",0.92,1.82
+"238","Early September 2021",2021-09-10,"MICRO",0.75,"4",NA,"Diatoms",24.71,6.78
+"239","Early September 2021",2021-09-10,"MICRO",0.75,"4",NA,"Green Algae",8.7,1.66
+"240","Early September 2021",2021-09-10,"MICRO",0.75,"4",NA,"Yellow Subst.",1.07,0.95
+"241","Early September 2021",2021-09-10,"MESO",1,"1",40,"Bluegreen",6.6,7.72
+"242","Early September 2021",2021-09-10,"MESO",1,"1",40,"Cryptophyta",1.2,2.87
+"243","Early September 2021",2021-09-10,"MESO",1,"1",40,"Diatoms",15.67,7.89
+"244","Early September 2021",2021-09-10,"MESO",1,"1",40,"Green Algae",4.89,1.32
+"245","Early September 2021",2021-09-10,"MESO",1,"1",40,"Yellow Subst.",1.17,1.52
+"246","Early September 2021",2021-09-10,"MICRO",1,"1",40,"Bluegreen",9.21,7.08
+"247","Early September 2021",2021-09-10,"MICRO",1,"1",40,"Cryptophyta",1.66,2.71
+"248","Early September 2021",2021-09-10,"MICRO",1,"1",40,"Diatoms",29.81,9.12
+"249","Early September 2021",2021-09-10,"MICRO",1,"1",40,"Green Algae",10.98,2.14
+"250","Early September 2021",2021-09-10,"MICRO",1,"1",40,"Yellow Subst.",1.29,1.12
+"251","Early September 2021",2021-09-10,"MESO",1,"2",40,"Bluegreen",6.88,8.06
+"252","Early September 2021",2021-09-10,"MESO",1,"2",40,"Cryptophyta",1.14,2.95
+"253","Early September 2021",2021-09-10,"MESO",1,"2",40,"Diatoms",17.34,8.95
+"254","Early September 2021",2021-09-10,"MESO",1,"2",40,"Green Algae",5.52,1.78
+"255","Early September 2021",2021-09-10,"MESO",1,"2",40,"Yellow Subst.",1.23,1.5
+"256","Early September 2021",2021-09-10,"MICRO",1,"2",40,"Bluegreen",8.81,7.84
+"257","Early September 2021",2021-09-10,"MICRO",1,"2",40,"Cryptophyta",1.85,2.05
+"258","Early September 2021",2021-09-10,"MICRO",1,"2",40,"Diatoms",29.18,10.37
+"259","Early September 2021",2021-09-10,"MICRO",1,"2",40,"Green Algae",12.3,1.95
+"260","Early September 2021",2021-09-10,"MICRO",1,"2",40,"Yellow Subst.",1.08,1.17
+"261","Early September 2021",2021-09-10,"MESO",1,"3",40,"Bluegreen",7.69,7.11
+"262","Early September 2021",2021-09-10,"MESO",1,"3",40,"Cryptophyta",1.45,2.87
+"263","Early September 2021",2021-09-10,"MESO",1,"3",40,"Diatoms",18.23,7.7
+"264","Early September 2021",2021-09-10,"MESO",1,"3",40,"Green Algae",4.34,1.43
+"265","Early September 2021",2021-09-10,"MESO",1,"3",40,"Yellow Subst.",1.35,1.48
+"266","Early September 2021",2021-09-10,"MICRO",1,"3",40,"Bluegreen",8.78,7.12
+"267","Early September 2021",2021-09-10,"MICRO",1,"3",40,"Cryptophyta",1.58,2.43
+"268","Early September 2021",2021-09-10,"MICRO",1,"3",40,"Diatoms",31.16,9.4
+"269","Early September 2021",2021-09-10,"MICRO",1,"3",40,"Green Algae",11.2,2.06
+"270","Early September 2021",2021-09-10,"MICRO",1,"3",40,"Yellow Subst.",1.29,1.17
+"271","Early September 2021",2021-09-10,"MESO",1,"4",40,"Bluegreen",7.06,7.87
+"272","Early September 2021",2021-09-10,"MESO",1,"4",40,"Cryptophyta",0.99,2.02
+"273","Early September 2021",2021-09-10,"MESO",1,"4",40,"Diatoms",18.51,9.58
+"274","Early September 2021",2021-09-10,"MESO",1,"4",40,"Green Algae",5.12,1.64
+"275","Early September 2021",2021-09-10,"MESO",1,"4",40,"Yellow Subst.",1.35,1.44
+"276","Early September 2021",2021-09-10,"MICRO",1,"4",40,"Bluegreen",9.69,6.64
+"277","Early September 2021",2021-09-10,"MICRO",1,"4",40,"Cryptophyta",1.23,2.17
+"278","Early September 2021",2021-09-10,"MICRO",1,"4",40,"Diatoms",30.49,8.91
+"279","Early September 2021",2021-09-10,"MICRO",1,"4",40,"Green Algae",13.23,2.2
+"280","Early September 2021",2021-09-10,"MICRO",1,"4",40,"Yellow Subst.",1.02,1.13
+"281","Early September 2021",2021-09-10,"MESO",2,"1",80,"Bluegreen",6.97,8.96
+"282","Early September 2021",2021-09-10,"MESO",2,"1",80,"Cryptophyta",2.1,2.72
+"283","Early September 2021",2021-09-10,"MESO",2,"1",80,"Diatoms",16.2,10.53
+"284","Early September 2021",2021-09-10,"MESO",2,"1",80,"Green Algae",5.16,0.95
+"285","Early September 2021",2021-09-10,"MESO",2,"1",80,"Yellow Subst.",1.31,1.75
+"286","Early September 2021",2021-09-10,"MESO",2,"2",80,"Bluegreen",7.23,9.23
+"287","Early September 2021",2021-09-10,"MESO",2,"2",80,"Cryptophyta",1.8,3
+"288","Early September 2021",2021-09-10,"MESO",2,"2",80,"Diatoms",18.69,10.18
+"289","Early September 2021",2021-09-10,"MESO",2,"2",80,"Green Algae",5.82,1.09
+"290","Early September 2021",2021-09-10,"MESO",2,"2",80,"Yellow Subst.",1.31,1.76
+"291","Early September 2021",2021-09-10,"MESO",2,"3",80,"Bluegreen",7.04,9
+"292","Early September 2021",2021-09-10,"MESO",2,"3",80,"Cryptophyta",1.84,3.21
+"293","Early September 2021",2021-09-10,"MESO",2,"3",80,"Diatoms",18.41,11.34
+"294","Early September 2021",2021-09-10,"MESO",2,"3",80,"Green Algae",6.65,1.47
+"295","Early September 2021",2021-09-10,"MESO",2,"3",80,"Yellow Subst.",1.34,1.88
+"296","Early September 2021",2021-09-10,"MESO",2,"4",80,"Bluegreen",6.6,8.43
+"297","Early September 2021",2021-09-10,"MESO",2,"4",80,"Cryptophyta",1.53,2.34
+"298","Early September 2021",2021-09-10,"MESO",2,"4",80,"Diatoms",17.18,9.79
+"299","Early September 2021",2021-09-10,"MESO",2,"4",80,"Green Algae",5.54,1.16
+"300","Early September 2021",2021-09-10,"MESO",2,"4",80,"Yellow Subst.",1.3,1.69
+"301","Early September 2021",2021-09-10,"MESO",4,"1",160,"Bluegreen",7.83,11.09
+"302","Early September 2021",2021-09-10,"MESO",4,"1",160,"Cryptophyta",2.29,4.46
+"303","Early September 2021",2021-09-10,"MESO",4,"1",160,"Diatoms",20.6,15.18
+"304","Early September 2021",2021-09-10,"MESO",4,"1",160,"Green Algae",5.62,0.72
+"305","Early September 2021",2021-09-10,"MESO",4,"1",160,"Yellow Subst.",1.61,2.36
+"306","Early September 2021",2021-09-10,"MESO",4,"2",160,"Bluegreen",9.06,10.91
+"307","Early September 2021",2021-09-10,"MESO",4,"2",160,"Cryptophyta",2.58,3.6
+"308","Early September 2021",2021-09-10,"MESO",4,"2",160,"Diatoms",18.46,13.27
+"309","Early September 2021",2021-09-10,"MESO",4,"2",160,"Green Algae",3.8,0.56
+"310","Early September 2021",2021-09-10,"MESO",4,"2",160,"Yellow Subst.",1.59,2.24
+"311","Early September 2021",2021-09-10,"MESO",4,"3",160,"Bluegreen",6.74,11.12
+"312","Early September 2021",2021-09-10,"MESO",4,"3",160,"Cryptophyta",1.67,5.99
+"313","Early September 2021",2021-09-10,"MESO",4,"3",160,"Diatoms",16.45,12.68
+"314","Early September 2021",2021-09-10,"MESO",4,"3",160,"Green Algae",4.54,0.52
+"315","Early September 2021",2021-09-10,"MESO",4,"3",160,"Yellow Subst.",1.42,2.46
+"316","Early September 2021",2021-09-10,"MESO",4,"4",160,"Bluegreen",9.04,9.95
+"317","Early September 2021",2021-09-10,"MESO",4,"4",160,"Cryptophyta",3.2,4.36
+"318","Early September 2021",2021-09-10,"MESO",4,"4",160,"Diatoms",20.98,12.59
+"319","Early September 2021",2021-09-10,"MESO",4,"4",160,"Green Algae",4.32,0.45
+"320","Early September 2021",2021-09-10,"MESO",4,"4",160,"Yellow Subst.",1.69,2.34
+"321","Late April 2021",2021-04-19,"MESO",0,"1",0,"Bluegreen",0,0
+"322","Late April 2021",2021-04-19,"MESO",0,"1",0,"Cryptophyta",0,0
+"323","Late April 2021",2021-04-19,"MESO",0,"1",0,"Diatoms",3.2025,5.3915
+"324","Late April 2021",2021-04-19,"MESO",0,"1",0,"Green Algae",2.7105,3.918
+"325","Late April 2021",2021-04-19,"MESO",0,"1",0,"Yellow Subst.",0.1935,0.084
+"326","Late April 2021",2021-04-19,"MESO",0,"2",0,"Bluegreen",0,0
+"327","Late April 2021",2021-04-19,"MESO",0,"2",0,"Cryptophyta",0,0
+"328","Late April 2021",2021-04-19,"MESO",0,"2",0,"Diatoms",3.3305,5.4655
+"329","Late April 2021",2021-04-19,"MESO",0,"2",0,"Green Algae",2.8705,3.897
+"330","Late April 2021",2021-04-19,"MESO",0,"2",0,"Yellow Subst.",0.205,0.104
+"331","Late April 2021",2021-04-19,"MESO",0,"3",0,"Bluegreen",0,0
+"332","Late April 2021",2021-04-19,"MESO",0,"3",0,"Cryptophyta",0,0
+"333","Late April 2021",2021-04-19,"MESO",0,"3",0,"Diatoms",3.134,6.029
+"334","Late April 2021",2021-04-19,"MESO",0,"3",0,"Green Algae",2.6015,4.095
+"335","Late April 2021",2021-04-19,"MESO",0,"3",0,"Yellow Subst.",0.211,0.123
+"336","Late April 2021",2021-04-19,"MESO",0,"4",0,"Bluegreen",0,0
+"337","Late April 2021",2021-04-19,"MESO",0,"4",0,"Cryptophyta",0,0
+"338","Late April 2021",2021-04-19,"MESO",0,"4",0,"Diatoms",3.094,5.516
+"339","Late April 2021",2021-04-19,"MESO",0,"4",0,"Green Algae",2.731,3.9555
+"340","Late April 2021",2021-04-19,"MESO",0,"4",0,"Yellow Subst.",0.201,0.124
+"341","Late April 2021",2021-04-19,"MICRO",0.25,"1",NA,"Bluegreen",0,0
+"342","Late April 2021",2021-04-19,"MICRO",0.25,"1",NA,"Cryptophyta",0,0
+"343","Late April 2021",2021-04-19,"MICRO",0.25,"1",NA,"Diatoms",1.0785,1.316
+"344","Late April 2021",2021-04-19,"MICRO",0.25,"1",NA,"Green Algae",0.916,1.0365
+"345","Late April 2021",2021-04-19,"MICRO",0.25,"1",NA,"Yellow Subst.",0.189,0.1415
+"346","Late April 2021",2021-04-19,"MICRO",0.25,"2",NA,"Bluegreen",0,0
+"347","Late April 2021",2021-04-19,"MICRO",0.25,"2",NA,"Cryptophyta",0,0
+"348","Late April 2021",2021-04-19,"MICRO",0.25,"2",NA,"Diatoms",1.0405,1.343
+"349","Late April 2021",2021-04-19,"MICRO",0.25,"2",NA,"Green Algae",0.885,1.0655
+"350","Late April 2021",2021-04-19,"MICRO",0.25,"2",NA,"Yellow Subst.",0.1915,0.1585
+"351","Late April 2021",2021-04-19,"MICRO",0.25,"3",NA,"Bluegreen",0,0
+"352","Late April 2021",2021-04-19,"MICRO",0.25,"3",NA,"Cryptophyta",0,0
+"353","Late April 2021",2021-04-19,"MICRO",0.25,"3",NA,"Diatoms",1.056,1.36
+"354","Late April 2021",2021-04-19,"MICRO",0.25,"3",NA,"Green Algae",0.915,1.06
+"355","Late April 2021",2021-04-19,"MICRO",0.25,"3",NA,"Yellow Subst.",0.194,0.161
+"356","Late April 2021",2021-04-19,"MICRO",0.25,"4",NA,"Bluegreen",0,0
+"357","Late April 2021",2021-04-19,"MICRO",0.25,"4",NA,"Cryptophyta",0,0
+"358","Late April 2021",2021-04-19,"MICRO",0.25,"4",NA,"Diatoms",1.001,1.379
+"359","Late April 2021",2021-04-19,"MICRO",0.25,"4",NA,"Green Algae",0.865,1.163
+"360","Late April 2021",2021-04-19,"MICRO",0.25,"4",NA,"Yellow Subst.",0.1945,0.176
+"361","Late April 2021",2021-04-19,"MICRO",0.5,"1",NA,"Bluegreen",0,0
+"362","Late April 2021",2021-04-19,"MICRO",0.5,"1",NA,"Cryptophyta",0,0
+"363","Late April 2021",2021-04-19,"MICRO",0.5,"1",NA,"Diatoms",2.903,2.6235
+"364","Late April 2021",2021-04-19,"MICRO",0.5,"1",NA,"Green Algae",2.139,2.2125
+"365","Late April 2021",2021-04-19,"MICRO",0.5,"1",NA,"Yellow Subst.",0.2075,0.157
+"366","Late April 2021",2021-04-19,"MICRO",0.5,"2",NA,"Bluegreen",0,0
+"367","Late April 2021",2021-04-19,"MICRO",0.5,"2",NA,"Cryptophyta",0,0
+"368","Late April 2021",2021-04-19,"MICRO",0.5,"2",NA,"Diatoms",2.7485,2.771
+"369","Late April 2021",2021-04-19,"MICRO",0.5,"2",NA,"Green Algae",1.9985,2.216
+"370","Late April 2021",2021-04-19,"MICRO",0.5,"2",NA,"Yellow Subst.",0.1975,0.177
+"371","Late April 2021",2021-04-19,"MICRO",0.5,"3",NA,"Bluegreen",0,0
+"372","Late April 2021",2021-04-19,"MICRO",0.5,"3",NA,"Cryptophyta",0,0
+"373","Late April 2021",2021-04-19,"MICRO",0.5,"3",NA,"Diatoms",2.6755,2.982
+"374","Late April 2021",2021-04-19,"MICRO",0.5,"3",NA,"Green Algae",1.9855,2.4415
+"375","Late April 2021",2021-04-19,"MICRO",0.5,"3",NA,"Yellow Subst.",0.209,0.1835
+"376","Late April 2021",2021-04-19,"MICRO",0.5,"4",NA,"Bluegreen",0,0
+"377","Late April 2021",2021-04-19,"MICRO",0.5,"4",NA,"Cryptophyta",0,0
+"378","Late April 2021",2021-04-19,"MICRO",0.5,"4",NA,"Diatoms",2.7,2.7605
+"379","Late April 2021",2021-04-19,"MICRO",0.5,"4",NA,"Green Algae",2.0015,2.2425
+"380","Late April 2021",2021-04-19,"MICRO",0.5,"4",NA,"Yellow Subst.",0.2085,0.1945
+"381","Late April 2021",2021-04-19,"MICRO",0.75,"1",NA,"Bluegreen",0,0
+"382","Late April 2021",2021-04-19,"MICRO",0.75,"1",NA,"Cryptophyta",0,0
+"383","Late April 2021",2021-04-19,"MICRO",0.75,"1",NA,"Diatoms",3.881,4.3155
+"384","Late April 2021",2021-04-19,"MICRO",0.75,"1",NA,"Green Algae",2.898,3.3265
+"385","Late April 2021",2021-04-19,"MICRO",0.75,"1",NA,"Yellow Subst.",0.207,0.157
+"386","Late April 2021",2021-04-19,"MICRO",0.75,"2",NA,"Bluegreen",0,0
+"387","Late April 2021",2021-04-19,"MICRO",0.75,"2",NA,"Cryptophyta",0,0
+"388","Late April 2021",2021-04-19,"MICRO",0.75,"2",NA,"Diatoms",3.9635,3.9495
+"389","Late April 2021",2021-04-19,"MICRO",0.75,"2",NA,"Green Algae",3.1025,3.138
+"390","Late April 2021",2021-04-19,"MICRO",0.75,"2",NA,"Yellow Subst.",0.2015,0.17
+"391","Late April 2021",2021-04-19,"MICRO",0.75,"3",NA,"Bluegreen",0,0
+"392","Late April 2021",2021-04-19,"MICRO",0.75,"3",NA,"Cryptophyta",0,0
+"393","Late April 2021",2021-04-19,"MICRO",0.75,"3",NA,"Diatoms",3.883,3.9625
+"394","Late April 2021",2021-04-19,"MICRO",0.75,"3",NA,"Green Algae",3.0345,3.257
+"395","Late April 2021",2021-04-19,"MICRO",0.75,"3",NA,"Yellow Subst.",0.2075,0.16
+"396","Late April 2021",2021-04-19,"MICRO",0.75,"4",NA,"Bluegreen",0,0
+"397","Late April 2021",2021-04-19,"MICRO",0.75,"4",NA,"Cryptophyta",0,0
+"398","Late April 2021",2021-04-19,"MICRO",0.75,"4",NA,"Diatoms",3.896,4.155
+"399","Late April 2021",2021-04-19,"MICRO",0.75,"4",NA,"Green Algae",2.9185,3.3035
+"400","Late April 2021",2021-04-19,"MICRO",0.75,"4",NA,"Yellow Subst.",0.2205,0.1695
+"401","Late April 2021",2021-04-19,"MESO",1,"1",1,"Bluegreen",0,0
+"402","Late April 2021",2021-04-19,"MESO",1,"1",1,"Cryptophyta",0,0
+"403","Late April 2021",2021-04-19,"MESO",1,"1",1,"Diatoms",3.5055,5.029
+"404","Late April 2021",2021-04-19,"MESO",1,"1",1,"Green Algae",2.909,3.884
+"405","Late April 2021",2021-04-19,"MESO",1,"1",1,"Yellow Subst.",0.1845,0.1245
+"406","Late April 2021",2021-04-19,"MICRO",1,"1",1,"Bluegreen",0,0
+"407","Late April 2021",2021-04-19,"MICRO",1,"1",1,"Cryptophyta",0,0
+"408","Late April 2021",2021-04-19,"MICRO",1,"1",1,"Diatoms",3.7795,4.672
+"409","Late April 2021",2021-04-19,"MICRO",1,"1",1,"Green Algae",3.023,3.945
+"410","Late April 2021",2021-04-19,"MICRO",1,"1",1,"Yellow Subst.",0.238,0.1855
+"411","Late April 2021",2021-04-19,"MESO",1,"2",1,"Bluegreen",0,0
+"412","Late April 2021",2021-04-19,"MESO",1,"2",1,"Cryptophyta",0,0
+"413","Late April 2021",2021-04-19,"MESO",1,"2",1,"Diatoms",3.4655,5.196
+"414","Late April 2021",2021-04-19,"MESO",1,"2",1,"Green Algae",2.8035,3.9235
+"415","Late April 2021",2021-04-19,"MESO",1,"2",1,"Yellow Subst.",0.188,0.1345
+"416","Late April 2021",2021-04-19,"MICRO",1,"2",1,"Bluegreen",0,0
+"417","Late April 2021",2021-04-19,"MICRO",1,"2",1,"Cryptophyta",0,0
+"418","Late April 2021",2021-04-19,"MICRO",1,"2",1,"Diatoms",3.573,4.694
+"419","Late April 2021",2021-04-19,"MICRO",1,"2",1,"Green Algae",2.999,4.0095
+"420","Late April 2021",2021-04-19,"MICRO",1,"2",1,"Yellow Subst.",0.244,0.178
+"421","Late April 2021",2021-04-19,"MESO",1,"3",1,"Bluegreen",0,0
+"422","Late April 2021",2021-04-19,"MESO",1,"3",1,"Cryptophyta",0,0
+"423","Late April 2021",2021-04-19,"MESO",1,"3",1,"Diatoms",3.897,5.0295
+"424","Late April 2021",2021-04-19,"MESO",1,"3",1,"Green Algae",3.1205,3.9015
+"425","Late April 2021",2021-04-19,"MESO",1,"3",1,"Yellow Subst.",0.1935,0.1335
+"426","Late April 2021",2021-04-19,"MICRO",1,"3",1,"Bluegreen",0,0
+"427","Late April 2021",2021-04-19,"MICRO",1,"3",1,"Cryptophyta",0,0
+"428","Late April 2021",2021-04-19,"MICRO",1,"3",1,"Diatoms",3.4665,4.699
+"429","Late April 2021",2021-04-19,"MICRO",1,"3",1,"Green Algae",3.0655,3.9585
+"430","Late April 2021",2021-04-19,"MICRO",1,"3",1,"Yellow Subst.",0.253,0.194
+"431","Late April 2021",2021-04-19,"MESO",1,"4",1,"Bluegreen",0,0
+"432","Late April 2021",2021-04-19,"MESO",1,"4",1,"Cryptophyta",0,0
+"433","Late April 2021",2021-04-19,"MESO",1,"4",1,"Diatoms",4.1135,5.0235
+"434","Late April 2021",2021-04-19,"MESO",1,"4",1,"Green Algae",3.2005,3.9535
+"435","Late April 2021",2021-04-19,"MESO",1,"4",1,"Yellow Subst.",0.209,0.152
+"436","Late April 2021",2021-04-19,"MICRO",1,"4",1,"Bluegreen",0,0
+"437","Late April 2021",2021-04-19,"MICRO",1,"4",1,"Cryptophyta",0,0
+"438","Late April 2021",2021-04-19,"MICRO",1,"4",1,"Diatoms",3.608,4.6865
+"439","Late April 2021",2021-04-19,"MICRO",1,"4",1,"Green Algae",3.0585,3.918
+"440","Late April 2021",2021-04-19,"MICRO",1,"4",1,"Yellow Subst.",0.243,0.216
+"441","Late April 2021",2021-04-19,"MESO",2,"1",2,"Bluegreen",0,0
+"442","Late April 2021",2021-04-19,"MESO",2,"1",2,"Cryptophyta",0,0
+"443","Late April 2021",2021-04-19,"MESO",2,"1",2,"Diatoms",3.044,5.097
+"444","Late April 2021",2021-04-19,"MESO",2,"1",2,"Green Algae",2.6275,3.936
+"445","Late April 2021",2021-04-19,"MESO",2,"1",2,"Yellow Subst.",0.1905,0.1405
+"446","Late April 2021",2021-04-19,"MESO",2,"2",2,"Bluegreen",0,0
+"447","Late April 2021",2021-04-19,"MESO",2,"2",2,"Cryptophyta",0,0
+"448","Late April 2021",2021-04-19,"MESO",2,"2",2,"Diatoms",3.107,5.209
+"449","Late April 2021",2021-04-19,"MESO",2,"2",2,"Green Algae",2.6485,3.926
+"450","Late April 2021",2021-04-19,"MESO",2,"2",2,"Yellow Subst.",0.1915,0.1415
+"451","Late April 2021",2021-04-19,"MESO",2,"3",2,"Bluegreen",0,0
+"452","Late April 2021",2021-04-19,"MESO",2,"3",2,"Cryptophyta",0,0
+"453","Late April 2021",2021-04-19,"MESO",2,"3",2,"Diatoms",3.1275,5.5285
+"454","Late April 2021",2021-04-19,"MESO",2,"3",2,"Green Algae",2.6725,3.9765
+"455","Late April 2021",2021-04-19,"MESO",2,"3",2,"Yellow Subst.",0.203,0.172
+"456","Late April 2021",2021-04-19,"MESO",2,"4",2,"Bluegreen",0,0
+"457","Late April 2021",2021-04-19,"MESO",2,"4",2,"Cryptophyta",0,0
+"458","Late April 2021",2021-04-19,"MESO",2,"4",2,"Diatoms",3.1115,5.2335
+"459","Late April 2021",2021-04-19,"MESO",2,"4",2,"Green Algae",2.8105,3.9765
+"460","Late April 2021",2021-04-19,"MESO",2,"4",2,"Yellow Subst.",0.192,0.166
+"461","Late April 2021",2021-04-19,"MESO",4,"1",4,"Bluegreen",0,0
+"462","Late April 2021",2021-04-19,"MESO",4,"1",4,"Cryptophyta",0,0
+"463","Late April 2021",2021-04-19,"MESO",4,"1",4,"Diatoms",3.202,5.195
+"464","Late April 2021",2021-04-19,"MESO",4,"1",4,"Green Algae",2.796,4.095
+"465","Late April 2021",2021-04-19,"MESO",4,"1",4,"Yellow Subst.",0.1985,0.167
+"466","Late April 2021",2021-04-19,"MESO",4,"2",4,"Bluegreen",0,0
+"467","Late April 2021",2021-04-19,"MESO",4,"2",4,"Cryptophyta",0,0
+"468","Late April 2021",2021-04-19,"MESO",4,"2",4,"Diatoms",3.1085,5.2885
+"469","Late April 2021",2021-04-19,"MESO",4,"2",4,"Green Algae",2.694,4.051
+"470","Late April 2021",2021-04-19,"MESO",4,"2",4,"Yellow Subst.",0.2175,0.1725
+"471","Late April 2021",2021-04-19,"MESO",4,"3",4,"Bluegreen",0,0
+"472","Late April 2021",2021-04-19,"MESO",4,"3",4,"Cryptophyta",0,0
+"473","Late April 2021",2021-04-19,"MESO",4,"3",4,"Diatoms",3.589,5.42
+"474","Late April 2021",2021-04-19,"MESO",4,"3",4,"Green Algae",3.0675,4.193
+"475","Late April 2021",2021-04-19,"MESO",4,"3",4,"Yellow Subst.",0.2035,0.1725
+"476","Late April 2021",2021-04-19,"MESO",4,"4",4,"Bluegreen",0,0
+"477","Late April 2021",2021-04-19,"MESO",4,"4",4,"Cryptophyta",0,0
+"478","Late April 2021",2021-04-19,"MESO",4,"4",4,"Diatoms",3.7305,5.6145
+"479","Late April 2021",2021-04-19,"MESO",4,"4",4,"Green Algae",3.0785,4.0425
+"480","Late April 2021",2021-04-19,"MESO",4,"4",4,"Yellow Subst.",0.2325,0.1775
+"481","Late August 2021",2021-08-24,"MESO",0,"1",0,"Bluegreen",7.95,8.5
+"482","Late August 2021",2021-08-24,"MESO",0,"1",0,"Cryptophyta",1.33,1.68
+"483","Late August 2021",2021-08-24,"MESO",0,"1",0,"Diatoms",0.48,0.69
+"484","Late August 2021",2021-08-24,"MESO",0,"1",0,"Green Algae",0,0
+"485","Late August 2021",2021-08-24,"MESO",0,"1",0,"Yellow Subst.",0.68,0.82
+"486","Late August 2021",2021-08-24,"MESO",0,"2",0,"Bluegreen",7.69,7.15
+"487","Late August 2021",2021-08-24,"MESO",0,"2",0,"Cryptophyta",1.45,1.56
+"488","Late August 2021",2021-08-24,"MESO",0,"2",0,"Diatoms",0.5,0.51
+"489","Late August 2021",2021-08-24,"MESO",0,"2",0,"Green Algae",0,0
+"490","Late August 2021",2021-08-24,"MESO",0,"2",0,"Yellow Subst.",0.69,0.86
+"491","Late August 2021",2021-08-24,"MESO",0,"3",0,"Bluegreen",8.25,7.06
+"492","Late August 2021",2021-08-24,"MESO",0,"3",0,"Cryptophyta",1.37,2.01
+"493","Late August 2021",2021-08-24,"MESO",0,"3",0,"Diatoms",0.59,0.18
+"494","Late August 2021",2021-08-24,"MESO",0,"3",0,"Green Algae",0,0
+"495","Late August 2021",2021-08-24,"MESO",0,"3",0,"Yellow Subst.",0.66,0.92
+"496","Late August 2021",2021-08-24,"MESO",0,"4",0,"Bluegreen",7.69,7.14
+"497","Late August 2021",2021-08-24,"MESO",0,"4",0,"Cryptophyta",1.91,1.86
+"498","Late August 2021",2021-08-24,"MESO",0,"4",0,"Diatoms",0.07,0.23
+"499","Late August 2021",2021-08-24,"MESO",0,"4",0,"Green Algae",0,0
+"500","Late August 2021",2021-08-24,"MESO",0,"4",0,"Yellow Subst.",0.72,0.9
+"501","Late August 2021",2021-08-24,"MICRO",0.25,"1",NA,"Bluegreen",2.9,2.44
+"502","Late August 2021",2021-08-24,"MICRO",0.25,"1",NA,"Cryptophyta",0.66,0.44
+"503","Late August 2021",2021-08-24,"MICRO",0.25,"1",NA,"Diatoms",0.1,0.04
+"504","Late August 2021",2021-08-24,"MICRO",0.25,"1",NA,"Green Algae",0,0
+"505","Late August 2021",2021-08-24,"MICRO",0.25,"1",NA,"Yellow Subst.",0.44,0.49
+"506","Late August 2021",2021-08-24,"MICRO",0.25,"2",NA,"Bluegreen",3.26,2.35
+"507","Late August 2021",2021-08-24,"MICRO",0.25,"2",NA,"Cryptophyta",0.74,0.6
+"508","Late August 2021",2021-08-24,"MICRO",0.25,"2",NA,"Diatoms",0.15,0.04
+"509","Late August 2021",2021-08-24,"MICRO",0.25,"2",NA,"Green Algae",0,0
+"510","Late August 2021",2021-08-24,"MICRO",0.25,"2",NA,"Yellow Subst.",0.44,0.48
+"511","Late August 2021",2021-08-24,"MICRO",0.25,"3",NA,"Bluegreen",3.54,2.11
+"512","Late August 2021",2021-08-24,"MICRO",0.25,"3",NA,"Cryptophyta",0.76,0.44
+"513","Late August 2021",2021-08-24,"MICRO",0.25,"3",NA,"Diatoms",0.14,0.06
+"514","Late August 2021",2021-08-24,"MICRO",0.25,"3",NA,"Green Algae",0,0
+"515","Late August 2021",2021-08-24,"MICRO",0.25,"3",NA,"Yellow Subst.",0.42,0.52
+"516","Late August 2021",2021-08-24,"MICRO",0.25,"4",NA,"Bluegreen",3.27,2.28
+"517","Late August 2021",2021-08-24,"MICRO",0.25,"4",NA,"Cryptophyta",0.61,0.42
+"518","Late August 2021",2021-08-24,"MICRO",0.25,"4",NA,"Diatoms",0.25,0.1
+"519","Late August 2021",2021-08-24,"MICRO",0.25,"4",NA,"Green Algae",0,0
+"520","Late August 2021",2021-08-24,"MICRO",0.25,"4",NA,"Yellow Subst.",0.42,0.5
+"521","Late August 2021",2021-08-24,"MICRO",0.5,"1",NA,"Bluegreen",7.16,5.49
+"522","Late August 2021",2021-08-24,"MICRO",0.5,"1",NA,"Cryptophyta",1.96,0.9
+"523","Late August 2021",2021-08-24,"MICRO",0.5,"1",NA,"Diatoms",0.1,0.29
+"524","Late August 2021",2021-08-24,"MICRO",0.5,"1",NA,"Green Algae",0,0
+"525","Late August 2021",2021-08-24,"MICRO",0.5,"1",NA,"Yellow Subst.",0.58,0.6
+"526","Late August 2021",2021-08-24,"MICRO",0.5,"2",NA,"Bluegreen",6.28,4.27
+"527","Late August 2021",2021-08-24,"MICRO",0.5,"2",NA,"Cryptophyta",1.56,1.15
+"528","Late August 2021",2021-08-24,"MICRO",0.5,"2",NA,"Diatoms",0.17,0
+"529","Late August 2021",2021-08-24,"MICRO",0.5,"2",NA,"Green Algae",0,0
+"530","Late August 2021",2021-08-24,"MICRO",0.5,"2",NA,"Yellow Subst.",0.53,0.63
+"531","Late August 2021",2021-08-24,"MICRO",0.5,"3",NA,"Bluegreen",6.47,4.39
+"532","Late August 2021",2021-08-24,"MICRO",0.5,"3",NA,"Cryptophyta",1.02,1.24
+"533","Late August 2021",2021-08-24,"MICRO",0.5,"3",NA,"Diatoms",0.48,0.09
+"534","Late August 2021",2021-08-24,"MICRO",0.5,"3",NA,"Green Algae",0,0
+"535","Late August 2021",2021-08-24,"MICRO",0.5,"3",NA,"Yellow Subst.",0.54,0.56
+"536","Late August 2021",2021-08-24,"MICRO",0.5,"4",NA,"Bluegreen",6.53,4.96
+"537","Late August 2021",2021-08-24,"MICRO",0.5,"4",NA,"Cryptophyta",1.39,0.9
+"538","Late August 2021",2021-08-24,"MICRO",0.5,"4",NA,"Diatoms",0.43,0.12
+"539","Late August 2021",2021-08-24,"MICRO",0.5,"4",NA,"Green Algae",0,0
+"540","Late August 2021",2021-08-24,"MICRO",0.5,"4",NA,"Yellow Subst.",0.54,0.6
+"541","Late August 2021",2021-08-24,"MICRO",0.75,"1",NA,"Bluegreen",8.37,6.93
+"542","Late August 2021",2021-08-24,"MICRO",0.75,"1",NA,"Cryptophyta",1.69,1.42
+"543","Late August 2021",2021-08-24,"MICRO",0.75,"1",NA,"Diatoms",0.62,0.39
+"544","Late August 2021",2021-08-24,"MICRO",0.75,"1",NA,"Green Algae",0,0
+"545","Late August 2021",2021-08-24,"MICRO",0.75,"1",NA,"Yellow Subst.",0.68,0.68
+"546","Late August 2021",2021-08-24,"MICRO",0.75,"2",NA,"Bluegreen",9.56,7
+"547","Late August 2021",2021-08-24,"MICRO",0.75,"2",NA,"Cryptophyta",2.31,1.66
+"548","Late August 2021",2021-08-24,"MICRO",0.75,"2",NA,"Diatoms",0.55,0.14
+"549","Late August 2021",2021-08-24,"MICRO",0.75,"2",NA,"Green Algae",0,0
+"550","Late August 2021",2021-08-24,"MICRO",0.75,"2",NA,"Yellow Subst.",0.64,0.69
+"551","Late August 2021",2021-08-24,"MICRO",0.75,"3",NA,"Bluegreen",8.91,7.06
+"552","Late August 2021",2021-08-24,"MICRO",0.75,"3",NA,"Cryptophyta",2.07,1.32
+"553","Late August 2021",2021-08-24,"MICRO",0.75,"3",NA,"Diatoms",0.62,0.44
+"554","Late August 2021",2021-08-24,"MICRO",0.75,"3",NA,"Green Algae",0,0
+"555","Late August 2021",2021-08-24,"MICRO",0.75,"3",NA,"Yellow Subst.",0.66,0.69
+"556","Late August 2021",2021-08-24,"MICRO",0.75,"4",NA,"Bluegreen",9.42,6.71
+"557","Late August 2021",2021-08-24,"MICRO",0.75,"4",NA,"Cryptophyta",1.34,1.59
+"558","Late August 2021",2021-08-24,"MICRO",0.75,"4",NA,"Diatoms",1.01,0.14
+"559","Late August 2021",2021-08-24,"MICRO",0.75,"4",NA,"Green Algae",0,0
+"560","Late August 2021",2021-08-24,"MICRO",0.75,"4",NA,"Yellow Subst.",0.64,0.7
+"561","Late August 2021",2021-08-24,"MESO",1,"1",23,"Bluegreen",8.5,8.31
+"562","Late August 2021",2021-08-24,"MESO",1,"1",23,"Cryptophyta",1.01,1.74
+"563","Late August 2021",2021-08-24,"MESO",1,"1",23,"Diatoms",0.7,0.52
+"564","Late August 2021",2021-08-24,"MESO",1,"1",23,"Green Algae",0,0
+"565","Late August 2021",2021-08-24,"MESO",1,"1",23,"Yellow Subst.",0.73,0.9
+"566","Late August 2021",2021-08-24,"MICRO",1,"1",23,"Bluegreen",12.84,8.2
+"567","Late August 2021",2021-08-24,"MICRO",1,"1",23,"Cryptophyta",3.02,2.66
+"568","Late August 2021",2021-08-24,"MICRO",1,"1",23,"Diatoms",0.7,0.1
+"569","Late August 2021",2021-08-24,"MICRO",1,"1",23,"Green Algae",0,0
+"570","Late August 2021",2021-08-24,"MICRO",1,"1",23,"Yellow Subst.",0.75,0.76
+"571","Late August 2021",2021-08-24,"MESO",1,"2",23,"Bluegreen",8.73,7.22
+"572","Late August 2021",2021-08-24,"MESO",1,"2",23,"Cryptophyta",1.33,2.04
+"573","Late August 2021",2021-08-24,"MESO",1,"2",23,"Diatoms",0.64,0.14
+"574","Late August 2021",2021-08-24,"MESO",1,"2",23,"Green Algae",0,0
+"575","Late August 2021",2021-08-24,"MESO",1,"2",23,"Yellow Subst.",0.73,0.92
+"576","Late August 2021",2021-08-24,"MICRO",1,"2",23,"Bluegreen",11.4,9.88
+"577","Late August 2021",2021-08-24,"MICRO",1,"2",23,"Cryptophyta",2.92,2.53
+"578","Late August 2021",2021-08-24,"MICRO",1,"2",23,"Diatoms",0.48,0.22
+"579","Late August 2021",2021-08-24,"MICRO",1,"2",23,"Green Algae",0.18,0
+"580","Late August 2021",2021-08-24,"MICRO",1,"2",23,"Yellow Subst.",0.8,0.76
+"581","Late August 2021",2021-08-24,"MESO",1,"3",23,"Bluegreen",9.01,8.02
+"582","Late August 2021",2021-08-24,"MESO",1,"3",23,"Cryptophyta",1.54,2
+"583","Late August 2021",2021-08-24,"MESO",1,"3",23,"Diatoms",0.64,0.21
+"584","Late August 2021",2021-08-24,"MESO",1,"3",23,"Green Algae",0,0
+"585","Late August 2021",2021-08-24,"MESO",1,"3",23,"Yellow Subst.",0.74,0.96
+"586","Late August 2021",2021-08-24,"MICRO",1,"3",23,"Bluegreen",11.23,8.58
+"587","Late August 2021",2021-08-24,"MICRO",1,"3",23,"Cryptophyta",3.5,2.51
+"588","Late August 2021",2021-08-24,"MICRO",1,"3",23,"Diatoms",0.11,0.06
+"589","Late August 2021",2021-08-24,"MICRO",1,"3",23,"Green Algae",0,0
+"590","Late August 2021",2021-08-24,"MICRO",1,"3",23,"Yellow Subst.",0.82,0.78
+"591","Late August 2021",2021-08-24,"MESO",1,"4",23,"Bluegreen",9.91,8.81
+"592","Late August 2021",2021-08-24,"MESO",1,"4",23,"Cryptophyta",2,1.8
+"593","Late August 2021",2021-08-24,"MESO",1,"4",23,"Diatoms",0.31,0.46
+"594","Late August 2021",2021-08-24,"MESO",1,"4",23,"Green Algae",0,0
+"595","Late August 2021",2021-08-24,"MESO",1,"4",23,"Yellow Subst.",0.69,0.96
+"596","Late August 2021",2021-08-24,"MICRO",1,"4",23,"Bluegreen",13.77,8.36
+"597","Late August 2021",2021-08-24,"MICRO",1,"4",23,"Cryptophyta",2.7,2.18
+"598","Late August 2021",2021-08-24,"MICRO",1,"4",23,"Diatoms",1.1,0.18
+"599","Late August 2021",2021-08-24,"MICRO",1,"4",23,"Green Algae",0,0
+"600","Late August 2021",2021-08-24,"MICRO",1,"4",23,"Yellow Subst.",0.74,0.8
+"601","Late August 2021",2021-08-24,"MESO",2,"1",45,"Bluegreen",10.38,10.21
+"602","Late August 2021",2021-08-24,"MESO",2,"1",45,"Cryptophyta",1.54,2.47
+"603","Late August 2021",2021-08-24,"MESO",2,"1",45,"Diatoms",0.7,0.13
+"604","Late August 2021",2021-08-24,"MESO",2,"1",45,"Green Algae",0,0
+"605","Late August 2021",2021-08-24,"MESO",2,"1",45,"Yellow Subst.",0.72,1
+"606","Late August 2021",2021-08-24,"MESO",2,"2",45,"Bluegreen",8.95,9.61
+"607","Late August 2021",2021-08-24,"MESO",2,"2",45,"Cryptophyta",1.83,1.84
+"608","Late August 2021",2021-08-24,"MESO",2,"2",45,"Diatoms",0.2,0.25
+"609","Late August 2021",2021-08-24,"MESO",2,"2",45,"Green Algae",0,0
+"610","Late August 2021",2021-08-24,"MESO",2,"2",45,"Yellow Subst.",0.78,1.02
+"611","Late August 2021",2021-08-24,"MESO",2,"3",45,"Bluegreen",8.35,9.62
+"612","Late August 2021",2021-08-24,"MESO",2,"3",45,"Cryptophyta",1.47,2.13
+"613","Late August 2021",2021-08-24,"MESO",2,"3",45,"Diatoms",0.48,0.09
+"614","Late August 2021",2021-08-24,"MESO",2,"3",45,"Green Algae",0,0
+"615","Late August 2021",2021-08-24,"MESO",2,"3",45,"Yellow Subst.",0.82,1.06
+"616","Late August 2021",2021-08-24,"MESO",2,"4",45,"Bluegreen",9.41,9.23
+"617","Late August 2021",2021-08-24,"MESO",2,"4",45,"Cryptophyta",1.93,2.24
+"618","Late August 2021",2021-08-24,"MESO",2,"4",45,"Diatoms",0.26,0.02
+"619","Late August 2021",2021-08-24,"MESO",2,"4",45,"Green Algae",0,0
+"620","Late August 2021",2021-08-24,"MESO",2,"4",45,"Yellow Subst.",0.78,1.06
+"621","Late August 2021",2021-08-24,"MESO",4,"1",75,"Bluegreen",NA,10.64
+"622","Late August 2021",2021-08-24,"MESO",4,"1",75,"Cryptophyta",NA,2.14
+"623","Late August 2021",2021-08-24,"MESO",4,"1",75,"Diatoms",NA,0
+"624","Late August 2021",2021-08-24,"MESO",4,"1",75,"Green Algae",NA,0
+"625","Late August 2021",2021-08-24,"MESO",4,"1",75,"Yellow Subst.",NA,1.21
+"626","Late August 2021",2021-08-24,"MESO",4,"2",75,"Bluegreen",NA,10.48
+"627","Late August 2021",2021-08-24,"MESO",4,"2",75,"Cryptophyta",NA,2.12
+"628","Late August 2021",2021-08-24,"MESO",4,"2",75,"Diatoms",NA,0
+"629","Late August 2021",2021-08-24,"MESO",4,"2",75,"Green Algae",NA,0
+"630","Late August 2021",2021-08-24,"MESO",4,"2",75,"Yellow Subst.",NA,1.17
+"631","Late August 2021",2021-08-24,"MESO",4,"3",75,"Bluegreen",8.59,11.13
+"632","Late August 2021",2021-08-24,"MESO",4,"3",75,"Cryptophyta",1.44,2.12
+"633","Late August 2021",2021-08-24,"MESO",4,"3",75,"Diatoms",0.21,0
+"634","Late August 2021",2021-08-24,"MESO",4,"3",75,"Green Algae",0,0
+"635","Late August 2021",2021-08-24,"MESO",4,"3",75,"Yellow Subst.",0.82,1.21
+"636","Late August 2021",2021-08-24,"MESO",4,"4",75,"Bluegreen",NA,12.41
+"637","Late August 2021",2021-08-24,"MESO",4,"4",75,"Cryptophyta",NA,2.24
+"638","Late August 2021",2021-08-24,"MESO",4,"4",75,"Diatoms",NA,0
+"639","Late August 2021",2021-08-24,"MESO",4,"4",75,"Green Algae",NA,0
+"640","Late August 2021",2021-08-24,"MESO",4,"4",75,"Yellow Subst.",NA,1.25
+"641","Late July 2021",2021-07-26,"MESO",0,"1",0,"Bluegreen",2.78,1.7
+"642","Late July 2021",2021-07-26,"MESO",0,"1",0,"Cryptophyta",0.5,0.34
+"643","Late July 2021",2021-07-26,"MESO",0,"1",0,"Diatoms",0.92,1.25
+"644","Late July 2021",2021-07-26,"MESO",0,"1",0,"Green Algae",2.88,2.87
+"645","Late July 2021",2021-07-26,"MESO",0,"1",0,"Yellow Subst.",0.3,0.45
+"646","Late July 2021",2021-07-26,"MESO",0,"2",0,"Bluegreen",2.91,1.68
+"647","Late July 2021",2021-07-26,"MESO",0,"2",0,"Cryptophyta",0.5,0.66
+"648","Late July 2021",2021-07-26,"MESO",0,"2",0,"Diatoms",1.06,1.01
+"649","Late July 2021",2021-07-26,"MESO",0,"2",0,"Green Algae",2.92,2.94
+"650","Late July 2021",2021-07-26,"MESO",0,"2",0,"Yellow Subst.",0.3,0.5
+"651","Late July 2021",2021-07-26,"MESO",0,"3",0,"Bluegreen",2.67,1.71
+"652","Late July 2021",2021-07-26,"MESO",0,"3",0,"Cryptophyta",0.78,0.48
+"653","Late July 2021",2021-07-26,"MESO",0,"3",0,"Diatoms",0.84,1.18
+"654","Late July 2021",2021-07-26,"MESO",0,"3",0,"Green Algae",2.48,2.8
+"655","Late July 2021",2021-07-26,"MESO",0,"3",0,"Yellow Subst.",0.37,0.48
+"656","Late July 2021",2021-07-26,"MESO",0,"4",0,"Bluegreen",2.8,1.78
+"657","Late July 2021",2021-07-26,"MESO",0,"4",0,"Cryptophyta",0.66,0.42
+"658","Late July 2021",2021-07-26,"MESO",0,"4",0,"Diatoms",1.02,1.27
+"659","Late July 2021",2021-07-26,"MESO",0,"4",0,"Green Algae",2.56,2.79
+"660","Late July 2021",2021-07-26,"MESO",0,"4",0,"Yellow Subst.",0.31,0.5
+"661","Late July 2021",2021-07-26,"MICRO",0.25,"1",NA,"Bluegreen",0.89,0.48
+"662","Late July 2021",2021-07-26,"MICRO",0.25,"1",NA,"Cryptophyta",0.16,0.04
+"663","Late July 2021",2021-07-26,"MICRO",0.25,"1",NA,"Diatoms",0.4,0.51
+"664","Late July 2021",2021-07-26,"MICRO",0.25,"1",NA,"Green Algae",0.62,0.19
+"665","Late July 2021",2021-07-26,"MICRO",0.25,"1",NA,"Yellow Subst.",0.17,0.2
+"666","Late July 2021",2021-07-26,"MICRO",0.25,"2",NA,"Bluegreen",0.88,0.48
+"667","Late July 2021",2021-07-26,"MICRO",0.25,"2",NA,"Cryptophyta",0.1,0.1
+"668","Late July 2021",2021-07-26,"MICRO",0.25,"2",NA,"Diatoms",0.44,0.46
+"669","Late July 2021",2021-07-26,"MICRO",0.25,"2",NA,"Green Algae",0.6,0.22
+"670","Late July 2021",2021-07-26,"MICRO",0.25,"2",NA,"Yellow Subst.",0.16,0.2
+"671","Late July 2021",2021-07-26,"MICRO",0.25,"3",NA,"Bluegreen",0.92,0.46
+"672","Late July 2021",2021-07-26,"MICRO",0.25,"3",NA,"Cryptophyta",0.22,0.06
+"673","Late July 2021",2021-07-26,"MICRO",0.25,"3",NA,"Diatoms",0.32,0.52
+"674","Late July 2021",2021-07-26,"MICRO",0.25,"3",NA,"Green Algae",0.69,0.23
+"675","Late July 2021",2021-07-26,"MICRO",0.25,"3",NA,"Yellow Subst.",0.17,0.2
+"676","Late July 2021",2021-07-26,"MICRO",0.25,"4",NA,"Bluegreen",0.94,0.49
+"677","Late July 2021",2021-07-26,"MICRO",0.25,"4",NA,"Cryptophyta",0.16,0.22
+"678","Late July 2021",2021-07-26,"MICRO",0.25,"4",NA,"Diatoms",0.4,0.44
+"679","Late July 2021",2021-07-26,"MICRO",0.25,"4",NA,"Green Algae",0.66,0.21
+"680","Late July 2021",2021-07-26,"MICRO",0.25,"4",NA,"Yellow Subst.",0.16,0.25
+"681","Late July 2021",2021-07-26,"MICRO",0.5,"1",NA,"Bluegreen",1.66,0.84
+"682","Late July 2021",2021-07-26,"MICRO",0.5,"1",NA,"Cryptophyta",0.36,0.23
+"683","Late July 2021",2021-07-26,"MICRO",0.5,"1",NA,"Diatoms",0.46,0.69
+"684","Late July 2021",2021-07-26,"MICRO",0.5,"1",NA,"Green Algae",1.92,1.11
+"685","Late July 2021",2021-07-26,"MICRO",0.5,"1",NA,"Yellow Subst.",0.2,0.23
+"686","Late July 2021",2021-07-26,"MICRO",0.5,"2",NA,"Bluegreen",1.75,0.84
+"687","Late July 2021",2021-07-26,"MICRO",0.5,"2",NA,"Cryptophyta",0.36,0.29
+"688","Late July 2021",2021-07-26,"MICRO",0.5,"2",NA,"Diatoms",0.5,0.64
+"689","Late July 2021",2021-07-26,"MICRO",0.5,"2",NA,"Green Algae",2.06,1.05
+"690","Late July 2021",2021-07-26,"MICRO",0.5,"2",NA,"Yellow Subst.",0.21,0.24
+"691","Late July 2021",2021-07-26,"MICRO",0.5,"3",NA,"Bluegreen",1.71,0.9
+"692","Late July 2021",2021-07-26,"MICRO",0.5,"3",NA,"Cryptophyta",0.29,0.41
+"693","Late July 2021",2021-07-26,"MICRO",0.5,"3",NA,"Diatoms",0.55,0.58
+"694","Late July 2021",2021-07-26,"MICRO",0.5,"3",NA,"Green Algae",2.17,1.07
+"695","Late July 2021",2021-07-26,"MICRO",0.5,"3",NA,"Yellow Subst.",0.17,0.26
+"696","Late July 2021",2021-07-26,"MICRO",0.5,"4",NA,"Bluegreen",1.73,0.84
+"697","Late July 2021",2021-07-26,"MICRO",0.5,"4",NA,"Cryptophyta",0.41,0.43
+"698","Late July 2021",2021-07-26,"MICRO",0.5,"4",NA,"Diatoms",0.45,0.48
+"699","Late July 2021",2021-07-26,"MICRO",0.5,"4",NA,"Green Algae",2.08,1.12
+"700","Late July 2021",2021-07-26,"MICRO",0.5,"4",NA,"Yellow Subst.",0.2,0.28
+"701","Late July 2021",2021-07-26,"MICRO",0.75,"1",NA,"Bluegreen",2.77,1.33
+"702","Late July 2021",2021-07-26,"MICRO",0.75,"1",NA,"Cryptophyta",0.6,0.53
+"703","Late July 2021",2021-07-26,"MICRO",0.75,"1",NA,"Diatoms",0.65,0.81
+"704","Late July 2021",2021-07-26,"MICRO",0.75,"1",NA,"Green Algae",3.65,2
+"705","Late July 2021",2021-07-26,"MICRO",0.75,"1",NA,"Yellow Subst.",0.23,0.32
+"706","Late July 2021",2021-07-26,"MICRO",0.75,"2",NA,"Bluegreen",2.88,1.31
+"707","Late July 2021",2021-07-26,"MICRO",0.75,"2",NA,"Cryptophyta",0.28,0.55
+"708","Late July 2021",2021-07-26,"MICRO",0.75,"2",NA,"Diatoms",0.92,0.72
+"709","Late July 2021",2021-07-26,"MICRO",0.75,"2",NA,"Green Algae",3.39,1.96
+"710","Late July 2021",2021-07-26,"MICRO",0.75,"2",NA,"Yellow Subst.",0.2,0.31
+"711","Late July 2021",2021-07-26,"MICRO",0.75,"3",NA,"Bluegreen",2.66,1.36
+"712","Late July 2021",2021-07-26,"MICRO",0.75,"3",NA,"Cryptophyta",0.62,0.38
+"713","Late July 2021",2021-07-26,"MICRO",0.75,"3",NA,"Diatoms",0.56,0.9
+"714","Late July 2021",2021-07-26,"MICRO",0.75,"3",NA,"Green Algae",3.66,1.83
+"715","Late July 2021",2021-07-26,"MICRO",0.75,"3",NA,"Yellow Subst.",0.22,0.31
+"716","Late July 2021",2021-07-26,"MICRO",0.75,"4",NA,"Bluegreen",2.88,1.38
+"717","Late July 2021",2021-07-26,"MICRO",0.75,"4",NA,"Cryptophyta",0.58,0.6
+"718","Late July 2021",2021-07-26,"MICRO",0.75,"4",NA,"Diatoms",0.66,0.76
+"719","Late July 2021",2021-07-26,"MICRO",0.75,"4",NA,"Green Algae",3.77,1.93
+"720","Late July 2021",2021-07-26,"MICRO",0.75,"4",NA,"Yellow Subst.",0.24,0.39
+"721","Late July 2021",2021-07-26,"MESO",1,"1",20,"Bluegreen",2.97,1.62
+"722","Late July 2021",2021-07-26,"MESO",1,"1",20,"Cryptophyta",0.57,0.62
+"723","Late July 2021",2021-07-26,"MESO",1,"1",20,"Diatoms",1,1.15
+"724","Late July 2021",2021-07-26,"MESO",1,"1",20,"Green Algae",2.76,2.62
+"725","Late July 2021",2021-07-26,"MESO",1,"1",20,"Yellow Subst.",0.31,0.48
+"726","Late July 2021",2021-07-26,"MICRO",1,"1",20,"Bluegreen",3.63,1.84
+"727","Late July 2021",2021-07-26,"MICRO",1,"1",20,"Cryptophyta",0.44,0.53
+"728","Late July 2021",2021-07-26,"MICRO",1,"1",20,"Diatoms",0.99,1.1
+"729","Late July 2021",2021-07-26,"MICRO",1,"1",20,"Green Algae",5.16,2.95
+"730","Late July 2021",2021-07-26,"MICRO",1,"1",20,"Yellow Subst.",0.22,0.3
+"731","Late July 2021",2021-07-26,"MESO",1,"2",20,"Bluegreen",2.85,1.82
+"732","Late July 2021",2021-07-26,"MESO",1,"2",20,"Cryptophyta",0.5,1.16
+"733","Late July 2021",2021-07-26,"MESO",1,"2",20,"Diatoms",1.23,0.8
+"734","Late July 2021",2021-07-26,"MESO",1,"2",20,"Green Algae",2.41,3.03
+"735","Late July 2021",2021-07-26,"MESO",1,"2",20,"Yellow Subst.",0.32,0.57
+"736","Late July 2021",2021-07-26,"MICRO",1,"2",20,"Bluegreen",3.89,1.7
+"737","Late July 2021",2021-07-26,"MICRO",1,"2",20,"Cryptophyta",0.38,0.82
+"738","Late July 2021",2021-07-26,"MICRO",1,"2",20,"Diatoms",1.03,0.94
+"739","Late July 2021",2021-07-26,"MICRO",1,"2",20,"Green Algae",5.52,3.03
+"740","Late July 2021",2021-07-26,"MICRO",1,"2",20,"Yellow Subst.",0.18,0.36
+"741","Late July 2021",2021-07-26,"MESO",1,"3",20,"Bluegreen",2.79,1.72
+"742","Late July 2021",2021-07-26,"MESO",1,"3",20,"Cryptophyta",0.65,0.62
+"743","Late July 2021",2021-07-26,"MESO",1,"3",20,"Diatoms",1.23,1.06
+"744","Late July 2021",2021-07-26,"MESO",1,"3",20,"Green Algae",2.37,2.67
+"745","Late July 2021",2021-07-26,"MESO",1,"3",20,"Yellow Subst.",0.33,0.46
+"746","Late July 2021",2021-07-26,"MICRO",1,"3",20,"Bluegreen",3.78,1.75
+"747","Late July 2021",2021-07-26,"MICRO",1,"3",20,"Cryptophyta",0.65,0.62
+"748","Late July 2021",2021-07-26,"MICRO",1,"3",20,"Diatoms",0.86,1.04
+"749","Late July 2021",2021-07-26,"MICRO",1,"3",20,"Green Algae",5.57,3
+"750","Late July 2021",2021-07-26,"MICRO",1,"3",20,"Yellow Subst.",0.22,0.34
+"751","Late July 2021",2021-07-26,"MESO",1,"4",20,"Bluegreen",3.23,1.94
+"752","Late July 2021",2021-07-26,"MESO",1,"4",20,"Cryptophyta",1.04,0.5
+"753","Late July 2021",2021-07-26,"MESO",1,"4",20,"Diatoms",0.73,1.31
+"754","Late July 2021",2021-07-26,"MESO",1,"4",20,"Green Algae",3.18,2.71
+"755","Late July 2021",2021-07-26,"MESO",1,"4",20,"Yellow Subst.",0.38,0.48
+"756","Late July 2021",2021-07-26,"MICRO",1,"4",20,"Bluegreen",3.66,1.69
+"757","Late July 2021",2021-07-26,"MICRO",1,"4",20,"Cryptophyta",0.5,0.64
+"758","Late July 2021",2021-07-26,"MICRO",1,"4",20,"Diatoms",1.01,0.96
+"759","Late July 2021",2021-07-26,"MICRO",1,"4",20,"Green Algae",5.61,2.9
+"760","Late July 2021",2021-07-26,"MICRO",1,"4",20,"Yellow Subst.",0.22,0.36
+"761","Late July 2021",2021-07-26,"MESO",2,"1",35,"Bluegreen",2.75,1.7
+"762","Late July 2021",2021-07-26,"MESO",2,"1",35,"Cryptophyta",0.4,0.38
+"763","Late July 2021",2021-07-26,"MESO",2,"1",35,"Diatoms",1.5,1.25
+"764","Late July 2021",2021-07-26,"MESO",2,"1",35,"Green Algae",2.8,2.5
+"765","Late July 2021",2021-07-26,"MESO",2,"1",35,"Yellow Subst.",0.32,0.42
+"766","Late July 2021",2021-07-26,"MESO",2,"2",35,"Bluegreen",3.11,1.69
+"767","Late July 2021",2021-07-26,"MESO",2,"2",35,"Cryptophyta",0.41,0.42
+"768","Late July 2021",2021-07-26,"MESO",2,"2",35,"Diatoms",1.36,1.3
+"769","Late July 2021",2021-07-26,"MESO",2,"2",35,"Green Algae",3.16,2.64
+"770","Late July 2021",2021-07-26,"MESO",2,"2",35,"Yellow Subst.",0.29,0.43
+"771","Late July 2021",2021-07-26,"MESO",2,"3",35,"Bluegreen",2.65,1.65
+"772","Late July 2021",2021-07-26,"MESO",2,"3",35,"Cryptophyta",0.54,0.41
+"773","Late July 2021",2021-07-26,"MESO",2,"3",35,"Diatoms",1.3,1.31
+"774","Late July 2021",2021-07-26,"MESO",2,"3",35,"Green Algae",2.54,2.51
+"775","Late July 2021",2021-07-26,"MESO",2,"3",35,"Yellow Subst.",0.3,0.44
+"776","Late July 2021",2021-07-26,"MESO",2,"4",35,"Bluegreen",2.69,1.79
+"777","Late July 2021",2021-07-26,"MESO",2,"4",35,"Cryptophyta",0.6,0.62
+"778","Late July 2021",2021-07-26,"MESO",2,"4",35,"Diatoms",1.54,1.21
+"779","Late July 2021",2021-07-26,"MESO",2,"4",35,"Green Algae",2.38,2.54
+"780","Late July 2021",2021-07-26,"MESO",2,"4",35,"Yellow Subst.",0.35,0.48
+"781","Late July 2021",2021-07-26,"MESO",4,"1",50,"Bluegreen",2.81,1.77
+"782","Late July 2021",2021-07-26,"MESO",4,"1",50,"Cryptophyta",0.5,0.57
+"783","Late July 2021",2021-07-26,"MESO",4,"1",50,"Diatoms",1.38,1.29
+"784","Late July 2021",2021-07-26,"MESO",4,"1",50,"Green Algae",2.65,2.32
+"785","Late July 2021",2021-07-26,"MESO",4,"1",50,"Yellow Subst.",0.32,0.45
+"786","Late July 2021",2021-07-26,"MESO",4,"2",50,"Bluegreen",2.67,1.61
+"787","Late July 2021",2021-07-26,"MESO",4,"2",50,"Cryptophyta",0.57,0.61
+"788","Late July 2021",2021-07-26,"MESO",4,"2",50,"Diatoms",1.52,1.26
+"789","Late July 2021",2021-07-26,"MESO",4,"2",50,"Green Algae",2.4,2.44
+"790","Late July 2021",2021-07-26,"MESO",4,"2",50,"Yellow Subst.",0.33,0.44
+"791","Late July 2021",2021-07-26,"MESO",4,"3",50,"Bluegreen",2.97,1.96
+"792","Late July 2021",2021-07-26,"MESO",4,"3",50,"Cryptophyta",0.66,0.65
+"793","Late July 2021",2021-07-26,"MESO",4,"3",50,"Diatoms",1.39,1.23
+"794","Late July 2021",2021-07-26,"MESO",4,"3",50,"Green Algae",2.19,2.62
+"795","Late July 2021",2021-07-26,"MESO",4,"3",50,"Yellow Subst.",0.36,0.45
+"796","Late July 2021",2021-07-26,"MESO",4,"4",50,"Bluegreen",3.17,2.12
+"797","Late July 2021",2021-07-26,"MESO",4,"4",50,"Cryptophyta",0.66,0.38
+"798","Late July 2021",2021-07-26,"MESO",4,"4",50,"Diatoms",1.41,1.57
+"799","Late July 2021",2021-07-26,"MESO",4,"4",50,"Green Algae",3.16,2.49
+"800","Late July 2021",2021-07-26,"MESO",4,"4",50,"Yellow Subst.",0.34,0.47
+"801","Late June 2021",2021-06-29,"MESO",0,"1",0,"Bluegreen",0.121,0.055
+"802","Late June 2021",2021-06-29,"MESO",0,"1",0,"Cryptophyta",0.0055,0.0425
+"803","Late June 2021",2021-06-29,"MESO",0,"1",0,"Diatoms",8.568,4.538
+"804","Late June 2021",2021-06-29,"MESO",0,"1",0,"Green Algae",7.667,4.3485
+"805","Late June 2021",2021-06-29,"MESO",0,"1",0,"Yellow Subst.",0.212,0.2
+"806","Late June 2021",2021-06-29,"MESO",0,"2",0,"Bluegreen",0.1865,0.053
+"807","Late June 2021",2021-06-29,"MESO",0,"2",0,"Cryptophyta",0,0.0145
+"808","Late June 2021",2021-06-29,"MESO",0,"2",0,"Diatoms",8.5425,4.6005
+"809","Late June 2021",2021-06-29,"MESO",0,"2",0,"Green Algae",7.6555,4.3575
+"810","Late June 2021",2021-06-29,"MESO",0,"2",0,"Yellow Subst.",0.2105,0.214
+"811","Late June 2021",2021-06-29,"MESO",0,"3",0,"Bluegreen",0.196,0.0535
+"812","Late June 2021",2021-06-29,"MESO",0,"3",0,"Cryptophyta",0.04,0.036
+"813","Late June 2021",2021-06-29,"MESO",0,"3",0,"Diatoms",8.2445,4.5915
+"814","Late June 2021",2021-06-29,"MESO",0,"3",0,"Green Algae",6.7945,4.491
+"815","Late June 2021",2021-06-29,"MESO",0,"3",0,"Yellow Subst.",0.224,0.1835
+"816","Late June 2021",2021-06-29,"MESO",0,"4",0,"Bluegreen",0.3285,0.0065
+"817","Late June 2021",2021-06-29,"MESO",0,"4",0,"Cryptophyta",0.008,0.328
+"818","Late June 2021",2021-06-29,"MESO",0,"4",0,"Diatoms",8.1125,4.4505
+"819","Late June 2021",2021-06-29,"MESO",0,"4",0,"Green Algae",6.445,4.763
+"820","Late June 2021",2021-06-29,"MESO",0,"4",0,"Yellow Subst.",0.2685,0.2645
+"821","Late June 2021",2021-06-29,"MICRO",0.25,"1",NA,"Bluegreen",0.1835,0.0065
+"822","Late June 2021",2021-06-29,"MICRO",0.25,"1",NA,"Cryptophyta",0.0225,0
+"823","Late June 2021",2021-06-29,"MICRO",0.25,"1",NA,"Diatoms",2.821,1.811
+"824","Late June 2021",2021-06-29,"MICRO",0.25,"1",NA,"Green Algae",1.8475,0.902
+"825","Late June 2021",2021-06-29,"MICRO",0.25,"1",NA,"Yellow Subst.",0.198,0.146
+"826","Late June 2021",2021-06-29,"MICRO",0.25,"2",NA,"Bluegreen",0.177,0.0205
+"827","Late June 2021",2021-06-29,"MICRO",0.25,"2",NA,"Cryptophyta",0.074,0.006
+"828","Late June 2021",2021-06-29,"MICRO",0.25,"2",NA,"Diatoms",2.8855,1.8575
+"829","Late June 2021",2021-06-29,"MICRO",0.25,"2",NA,"Green Algae",2.1635,1.003
+"830","Late June 2021",2021-06-29,"MICRO",0.25,"2",NA,"Yellow Subst.",0.1775,0.154
+"831","Late June 2021",2021-06-29,"MICRO",0.25,"3",NA,"Bluegreen",0.156,0.001
+"832","Late June 2021",2021-06-29,"MICRO",0.25,"3",NA,"Cryptophyta",0.004,0
+"833","Late June 2021",2021-06-29,"MICRO",0.25,"3",NA,"Diatoms",2.876,1.831
+"834","Late June 2021",2021-06-29,"MICRO",0.25,"3",NA,"Green Algae",2.1285,0.8845
+"835","Late June 2021",2021-06-29,"MICRO",0.25,"3",NA,"Yellow Subst.",0.1705,0.153
+"836","Late June 2021",2021-06-29,"MICRO",0.25,"4",NA,"Bluegreen",0.156,0.018
+"837","Late June 2021",2021-06-29,"MICRO",0.25,"4",NA,"Cryptophyta",0.0195,0.0045
+"838","Late June 2021",2021-06-29,"MICRO",0.25,"4",NA,"Diatoms",2.9065,1.9945
+"839","Late June 2021",2021-06-29,"MICRO",0.25,"4",NA,"Green Algae",2.0875,0.9565
+"840","Late June 2021",2021-06-29,"MICRO",0.25,"4",NA,"Yellow Subst.",0.1455,0.1535
+"841","Late June 2021",2021-06-29,"MICRO",0.5,"1",NA,"Bluegreen",0.355,0.005
+"842","Late June 2021",2021-06-29,"MICRO",0.5,"1",NA,"Cryptophyta",0.063,0
+"843","Late June 2021",2021-06-29,"MICRO",0.5,"1",NA,"Diatoms",5.838,3.5075
+"844","Late June 2021",2021-06-29,"MICRO",0.5,"1",NA,"Green Algae",4.7325,2.357
+"845","Late June 2021",2021-06-29,"MICRO",0.5,"1",NA,"Yellow Subst.",0.217,0.1585
+"846","Late June 2021",2021-06-29,"MICRO",0.5,"2",NA,"Bluegreen",0.3605,0.005
+"847","Late June 2021",2021-06-29,"MICRO",0.5,"2",NA,"Cryptophyta",0.069,0
+"848","Late June 2021",2021-06-29,"MICRO",0.5,"2",NA,"Diatoms",5.774,3.541
+"849","Late June 2021",2021-06-29,"MICRO",0.5,"2",NA,"Green Algae",4.8965,2.279
+"850","Late June 2021",2021-06-29,"MICRO",0.5,"2",NA,"Yellow Subst.",0.1535,0.159
+"851","Late June 2021",2021-06-29,"MICRO",0.5,"3",NA,"Bluegreen",0.2775,0.0025
+"852","Late June 2021",2021-06-29,"MICRO",0.5,"3",NA,"Cryptophyta",0.0725,0
+"853","Late June 2021",2021-06-29,"MICRO",0.5,"3",NA,"Diatoms",6.0095,3.437
+"854","Late June 2021",2021-06-29,"MICRO",0.5,"3",NA,"Green Algae",4.646,2.375
+"855","Late June 2021",2021-06-29,"MICRO",0.5,"3",NA,"Yellow Subst.",0.178,0.141
+"856","Late June 2021",2021-06-29,"MICRO",0.5,"4",NA,"Bluegreen",0.219,0.004
+"857","Late June 2021",2021-06-29,"MICRO",0.5,"4",NA,"Cryptophyta",0.0735,0
+"858","Late June 2021",2021-06-29,"MICRO",0.5,"4",NA,"Diatoms",6.04,3.547
+"859","Late June 2021",2021-06-29,"MICRO",0.5,"4",NA,"Green Algae",5.023,2.339
+"860","Late June 2021",2021-06-29,"MICRO",0.5,"4",NA,"Yellow Subst.",0.132,0.143
+"861","Late June 2021",2021-06-29,"MICRO",0.75,"1",NA,"Bluegreen",0.3705,0.0145
+"862","Late June 2021",2021-06-29,"MICRO",0.75,"1",NA,"Cryptophyta",0.014,0.0015
+"863","Late June 2021",2021-06-29,"MICRO",0.75,"1",NA,"Diatoms",8.109,5.21
+"864","Late June 2021",2021-06-29,"MICRO",0.75,"1",NA,"Green Algae",7.2205,3.9235
+"865","Late June 2021",2021-06-29,"MICRO",0.75,"1",NA,"Yellow Subst.",0.127,0.147
+"866","Late June 2021",2021-06-29,"MICRO",0.75,"2",NA,"Bluegreen",0.3905,0
+"867","Late June 2021",2021-06-29,"MICRO",0.75,"2",NA,"Cryptophyta",0.03,0
+"868","Late June 2021",2021-06-29,"MICRO",0.75,"2",NA,"Diatoms",8.8695,5.2975
+"869","Late June 2021",2021-06-29,"MICRO",0.75,"2",NA,"Green Algae",7.131,3.9595
+"870","Late June 2021",2021-06-29,"MICRO",0.75,"2",NA,"Yellow Subst.",0.1735,0.1425
+"871","Late June 2021",2021-06-29,"MICRO",0.75,"3",NA,"Bluegreen",0.339,0
+"872","Late June 2021",2021-06-29,"MICRO",0.75,"3",NA,"Cryptophyta",0.009,0
+"873","Late June 2021",2021-06-29,"MICRO",0.75,"3",NA,"Diatoms",8.6795,4.777
+"874","Late June 2021",2021-06-29,"MICRO",0.75,"3",NA,"Green Algae",7.0905,3.836
+"875","Late June 2021",2021-06-29,"MICRO",0.75,"3",NA,"Yellow Subst.",0.147,0.111
+"876","Late June 2021",2021-06-29,"MICRO",0.75,"4",NA,"Bluegreen",0.2895,0.0025
+"877","Late June 2021",2021-06-29,"MICRO",0.75,"4",NA,"Cryptophyta",NA,0
+"878","Late June 2021",2021-06-29,"MICRO",0.75,"4",NA,"Diatoms",8.7545,5.189
+"879","Late June 2021",2021-06-29,"MICRO",0.75,"4",NA,"Green Algae",6.8205,3.958
+"880","Late June 2021",2021-06-29,"MICRO",0.75,"4",NA,"Yellow Subst.",0.1635,0.14
+"881","Late June 2021",2021-06-29,"MESO",1,"1",1,"Bluegreen",0.191,0.0115
+"882","Late June 2021",2021-06-29,"MESO",1,"1",1,"Cryptophyta",0,0
+"883","Late June 2021",2021-06-29,"MESO",1,"1",1,"Diatoms",8.058,4.556
+"884","Late June 2021",2021-06-29,"MESO",1,"1",1,"Green Algae",6.551,4.236
+"885","Late June 2021",2021-06-29,"MESO",1,"1",1,"Yellow Subst.",0.2115,0.203
+"886","Late June 2021",2021-06-29,"MICRO",1,"1",1,"Bluegreen",0.5335,0.004
+"887","Late June 2021",2021-06-29,"MICRO",1,"1",1,"Cryptophyta",0.035,0
+"888","Late June 2021",2021-06-29,"MICRO",1,"1",1,"Diatoms",11.3315,6.611
+"889","Late June 2021",2021-06-29,"MICRO",1,"1",1,"Green Algae",9.4015,5.046
+"890","Late June 2021",2021-06-29,"MICRO",1,"1",1,"Yellow Subst.",0.094,0.1545
+"891","Late June 2021",2021-06-29,"MESO",1,"2",1,"Bluegreen",0.2,0.0665
+"892","Late June 2021",2021-06-29,"MESO",1,"2",1,"Cryptophyta",0.031,0.004
+"893","Late June 2021",2021-06-29,"MESO",1,"2",1,"Diatoms",8.2845,4.7235
+"894","Late June 2021",2021-06-29,"MESO",1,"2",1,"Green Algae",6.51,4.3195
+"895","Late June 2021",2021-06-29,"MESO",1,"2",1,"Yellow Subst.",0.2415,0.2205
+"896","Late June 2021",2021-06-29,"MICRO",1,"2",1,"Bluegreen",0.2965,0.0895
+"897","Late June 2021",2021-06-29,"MICRO",1,"2",1,"Cryptophyta",0.0505,0.003
+"898","Late June 2021",2021-06-29,"MICRO",1,"2",1,"Diatoms",11.593,6.5735
+"899","Late June 2021",2021-06-29,"MICRO",1,"2",1,"Green Algae",9.613,5.1265
+"900","Late June 2021",2021-06-29,"MICRO",1,"2",1,"Yellow Subst.",0.119,0.124
+"901","Late June 2021",2021-06-29,"MESO",1,"3",1,"Bluegreen",0.2455,0.0285
+"902","Late June 2021",2021-06-29,"MESO",1,"3",1,"Cryptophyta",0.0025,0.0075
+"903","Late June 2021",2021-06-29,"MESO",1,"3",1,"Diatoms",7.9295,4.8825
+"904","Late June 2021",2021-06-29,"MESO",1,"3",1,"Green Algae",6.6365,4.527
+"905","Late June 2021",2021-06-29,"MESO",1,"3",1,"Yellow Subst.",0.227,0.2095
+"906","Late June 2021",2021-06-29,"MICRO",1,"3",1,"Bluegreen",0.503,5e-04
+"907","Late June 2021",2021-06-29,"MICRO",1,"3",1,"Cryptophyta",1.162,0
+"908","Late June 2021",2021-06-29,"MICRO",1,"3",1,"Diatoms",10.944,6.67
+"909","Late June 2021",2021-06-29,"MICRO",1,"3",1,"Green Algae",9.8175,5.05
+"910","Late June 2021",2021-06-29,"MICRO",1,"3",1,"Yellow Subst.",0.118,0.157
+"911","Late June 2021",2021-06-29,"MESO",1,"4",1,"Bluegreen",0.239,0.0295
+"912","Late June 2021",2021-06-29,"MESO",1,"4",1,"Cryptophyta",0.0705,5e-04
+"913","Late June 2021",2021-06-29,"MESO",1,"4",1,"Diatoms",9.5305,4.712
+"914","Late June 2021",2021-06-29,"MESO",1,"4",1,"Green Algae",8.6,4.428
+"915","Late June 2021",2021-06-29,"MESO",1,"4",1,"Yellow Subst.",0.2895,0.219
+"916","Late June 2021",2021-06-29,"MICRO",1,"4",1,"Bluegreen",0.4605,0.008
+"917","Late June 2021",2021-06-29,"MICRO",1,"4",1,"Cryptophyta",0.008,0
+"918","Late June 2021",2021-06-29,"MICRO",1,"4",1,"Diatoms",11.8715,6.494
+"919","Late June 2021",2021-06-29,"MICRO",1,"4",1,"Green Algae",9.774,4.855
+"920","Late June 2021",2021-06-29,"MICRO",1,"4",1,"Yellow Subst.",0.189,0.159
+"921","Late June 2021",2021-06-29,"MESO",4,"1",4,"Bluegreen",0.269,0.031
+"922","Late June 2021",2021-06-29,"MESO",4,"1",4,"Cryptophyta",5e-04,0.004
+"923","Late June 2021",2021-06-29,"MESO",4,"1",4,"Diatoms",8.166,4.5385
+"924","Late June 2021",2021-06-29,"MESO",4,"1",4,"Green Algae",5.9945,4.108
+"925","Late June 2021",2021-06-29,"MESO",4,"1",4,"Yellow Subst.",0.2625,0.175
+"926","Late June 2021",2021-06-29,"MESO",4,"2",4,"Bluegreen",0.2265,0.095
+"927","Late June 2021",2021-06-29,"MESO",4,"2",4,"Cryptophyta",0.008,0.0655
+"928","Late June 2021",2021-06-29,"MESO",4,"2",4,"Diatoms",9.331,4.829
+"929","Late June 2021",2021-06-29,"MESO",4,"2",4,"Green Algae",7.534,4.207
+"930","Late June 2021",2021-06-29,"MESO",4,"2",4,"Yellow Subst.",0.2945,0.2555
+"931","Late June 2021",2021-06-29,"MESO",4,"3",4,"Bluegreen",0.2735,0.079
+"932","Late June 2021",2021-06-29,"MESO",4,"3",4,"Cryptophyta",0.0015,0.1285
+"933","Late June 2021",2021-06-29,"MESO",4,"3",4,"Diatoms",8.41,4.932
+"934","Late June 2021",2021-06-29,"MESO",4,"3",4,"Green Algae",7.2,4.414
+"935","Late June 2021",2021-06-29,"MESO",4,"3",4,"Yellow Subst.",0.2335,0.245
+"936","Late June 2021",2021-06-29,"MESO",4,"4",4,"Bluegreen",0.316,0.0995
+"937","Late June 2021",2021-06-29,"MESO",4,"4",4,"Cryptophyta",0.0175,0.0045
+"938","Late June 2021",2021-06-29,"MESO",4,"4",4,"Diatoms",8.1715,4.583
+"939","Late June 2021",2021-06-29,"MESO",4,"4",4,"Green Algae",NA,4.352
+"940","Late June 2021",2021-06-29,"MESO",4,"4",4,"Yellow Subst.",0.2255,0.18
+"941","Late June 2021",2021-06-29,"MESO",8,"1",8,"Bluegreen",0.3615,0.0825
+"942","Late June 2021",2021-06-29,"MESO",8,"1",8,"Cryptophyta",0,0.0085
+"943","Late June 2021",2021-06-29,"MESO",8,"1",8,"Diatoms",8.0205,4.886
+"944","Late June 2021",2021-06-29,"MESO",8,"1",8,"Green Algae",5.963,4.267
+"945","Late June 2021",2021-06-29,"MESO",8,"1",8,"Yellow Subst.",0.264,0.176
+"946","Late June 2021",2021-06-29,"MESO",8,"2",8,"Bluegreen",0.2715,0.0885
+"947","Late June 2021",2021-06-29,"MESO",8,"2",8,"Cryptophyta",0.003,0
+"948","Late June 2021",2021-06-29,"MESO",8,"2",8,"Diatoms",7.747,4.9205
+"949","Late June 2021",2021-06-29,"MESO",8,"2",8,"Green Algae",5.764,4.1375
+"950","Late June 2021",2021-06-29,"MESO",8,"2",8,"Yellow Subst.",0.227,0.206
+"951","Late June 2021",2021-06-29,"MESO",8,"3",8,"Bluegreen",0.3125,0.0975
+"952","Late June 2021",2021-06-29,"MESO",8,"3",8,"Cryptophyta",0.0125,0.0235
+"953","Late June 2021",2021-06-29,"MESO",8,"3",8,"Diatoms",8.8065,4.8305
+"954","Late June 2021",2021-06-29,"MESO",8,"3",8,"Green Algae",7.061,4.213
+"955","Late June 2021",2021-06-29,"MESO",8,"3",8,"Yellow Subst.",0.2805,0.2025
+"956","Late June 2021",2021-06-29,"MESO",8,"4",8,"Bluegreen",0.274,0.0765
+"957","Late June 2021",2021-06-29,"MESO",8,"4",8,"Cryptophyta",0.0225,0.0345
+"958","Late June 2021",2021-06-29,"MESO",8,"4",8,"Diatoms",10.399,4.913
+"959","Late June 2021",2021-06-29,"MESO",8,"4",8,"Green Algae",8.271,4.1795
+"960","Late June 2021",2021-06-29,"MESO",8,"4",8,"Yellow Subst.",0.3395,0.215
+"961","Late May 2021",2021-05-17,"MESO",0,"1",0,"Bluegreen",0,0
+"962","Late May 2021",2021-05-17,"MESO",0,"1",0,"Cryptophyta",0,0
+"963","Late May 2021",2021-05-17,"MESO",0,"1",0,"Diatoms",39.385,21.673
+"964","Late May 2021",2021-05-17,"MESO",0,"1",0,"Green Algae",16.853,8.7835
+"965","Late May 2021",2021-05-17,"MESO",0,"1",0,"Yellow Subst.",0.0025,0.327
+"966","Late May 2021",2021-05-17,"MESO",0,"2",0,"Bluegreen",0,0
+"967","Late May 2021",2021-05-17,"MESO",0,"2",0,"Cryptophyta",0,0
+"968","Late May 2021",2021-05-17,"MESO",0,"2",0,"Diatoms",38.987,22.0135
+"969","Late May 2021",2021-05-17,"MESO",0,"2",0,"Green Algae",16.8025,8.875
+"970","Late May 2021",2021-05-17,"MESO",0,"2",0,"Yellow Subst.",0.081,0.301
+"971","Late May 2021",2021-05-17,"MESO",0,"3",0,"Bluegreen",0,0
+"972","Late May 2021",2021-05-17,"MESO",0,"3",0,"Cryptophyta",0,0
+"973","Late May 2021",2021-05-17,"MESO",0,"3",0,"Diatoms",36.6425,21.838
+"974","Late May 2021",2021-05-17,"MESO",0,"3",0,"Green Algae",16.163,8.301
+"975","Late May 2021",2021-05-17,"MESO",0,"3",0,"Yellow Subst.",0.1325,0.425
+"976","Late May 2021",2021-05-17,"MESO",0,"4",0,"Bluegreen",0,0
+"977","Late May 2021",2021-05-17,"MESO",0,"4",0,"Cryptophyta",0,0
+"978","Late May 2021",2021-05-17,"MESO",0,"4",0,"Diatoms",36.3075,20.778
+"979","Late May 2021",2021-05-17,"MESO",0,"4",0,"Green Algae",15.183,8.5355
+"980","Late May 2021",2021-05-17,"MESO",0,"4",0,"Yellow Subst.",0.1705,0.412
+"981","Late May 2021",2021-05-17,"MICRO",0.25,"1",NA,"Bluegreen",0,0
+"982","Late May 2021",2021-05-17,"MICRO",0.25,"1",NA,"Cryptophyta",0,0
+"983","Late May 2021",2021-05-17,"MICRO",0.25,"1",NA,"Diatoms",7.128,5.659
+"984","Late May 2021",2021-05-17,"MICRO",0.25,"1",NA,"Green Algae",2.6975,2.0345
+"985","Late May 2021",2021-05-17,"MICRO",0.25,"1",NA,"Yellow Subst.",1.132,1.1275
+"986","Late May 2021",2021-05-17,"MICRO",0.25,"2",NA,"Bluegreen",0,0
+"987","Late May 2021",2021-05-17,"MICRO",0.25,"2",NA,"Cryptophyta",0,0
+"988","Late May 2021",2021-05-17,"MICRO",0.25,"2",NA,"Diatoms",7.9495,5.275
+"989","Late May 2021",2021-05-17,"MICRO",0.25,"2",NA,"Green Algae",2.9075,2.176
+"990","Late May 2021",2021-05-17,"MICRO",0.25,"2",NA,"Yellow Subst.",0.9975,1.0205
+"991","Late May 2021",2021-05-17,"MICRO",0.25,"3",NA,"Bluegreen",0,0
+"992","Late May 2021",2021-05-17,"MICRO",0.25,"3",NA,"Cryptophyta",0,0
+"993","Late May 2021",2021-05-17,"MICRO",0.25,"3",NA,"Diatoms",9.2665,5.273
+"994","Late May 2021",2021-05-17,"MICRO",0.25,"3",NA,"Green Algae",3.3345,2.2165
+"995","Late May 2021",2021-05-17,"MICRO",0.25,"3",NA,"Yellow Subst.",0.964,1.0215
+"996","Late May 2021",2021-05-17,"MICRO",0.25,"4",NA,"Bluegreen",0,0
+"997","Late May 2021",2021-05-17,"MICRO",0.25,"4",NA,"Cryptophyta",0,0
+"998","Late May 2021",2021-05-17,"MICRO",0.25,"4",NA,"Diatoms",8.6745,5.7095
+"999","Late May 2021",2021-05-17,"MICRO",0.25,"4",NA,"Green Algae",3.082,2.2515
+"1000","Late May 2021",2021-05-17,"MICRO",0.25,"4",NA,"Yellow Subst.",0.927,1.13
+"1001","Late May 2021",2021-05-17,"MICRO",0.5,"1",NA,"Bluegreen",0,0
+"1002","Late May 2021",2021-05-17,"MICRO",0.5,"1",NA,"Cryptophyta",0,0
+"1003","Late May 2021",2021-05-17,"MICRO",0.5,"1",NA,"Diatoms",16.1625,11.699
+"1004","Late May 2021",2021-05-17,"MICRO",0.5,"1",NA,"Green Algae",5.569,4.111
+"1005","Late May 2021",2021-05-17,"MICRO",0.5,"1",NA,"Yellow Subst.",0.739,1.013
+"1006","Late May 2021",2021-05-17,"MICRO",0.5,"2",NA,"Bluegreen",0,0
+"1007","Late May 2021",2021-05-17,"MICRO",0.5,"2",NA,"Cryptophyta",0,0
+"1008","Late May 2021",2021-05-17,"MICRO",0.5,"2",NA,"Diatoms",16.608,10.7745
+"1009","Late May 2021",2021-05-17,"MICRO",0.5,"2",NA,"Green Algae",6.3745,3.987
+"1010","Late May 2021",2021-05-17,"MICRO",0.5,"2",NA,"Yellow Subst.",0.7,0.9565
+"1011","Late May 2021",2021-05-17,"MICRO",0.5,"3",NA,"Bluegreen",0,0
+"1012","Late May 2021",2021-05-17,"MICRO",0.5,"3",NA,"Cryptophyta",0,0
+"1013","Late May 2021",2021-05-17,"MICRO",0.5,"3",NA,"Diatoms",16.785,10.722
+"1014","Late May 2021",2021-05-17,"MICRO",0.5,"3",NA,"Green Algae",6.523,4.035
+"1015","Late May 2021",2021-05-17,"MICRO",0.5,"3",NA,"Yellow Subst.",0.632,0.9205
+"1016","Late May 2021",2021-05-17,"MICRO",0.5,"4",NA,"Bluegreen",0,0
+"1017","Late May 2021",2021-05-17,"MICRO",0.5,"4",NA,"Cryptophyta",0,0
+"1018","Late May 2021",2021-05-17,"MICRO",0.5,"4",NA,"Diatoms",17.3225,10.6025
+"1019","Late May 2021",2021-05-17,"MICRO",0.5,"4",NA,"Green Algae",6.257,4.3535
+"1020","Late May 2021",2021-05-17,"MICRO",0.5,"4",NA,"Yellow Subst.",0.7025,0.853
+"1021","Late May 2021",2021-05-17,"MICRO",0.75,"1",NA,"Bluegreen",0,0
+"1022","Late May 2021",2021-05-17,"MICRO",0.75,"1",NA,"Cryptophyta",0,0
+"1023","Late May 2021",2021-05-17,"MICRO",0.75,"1",NA,"Diatoms",29.6205,18.012
+"1024","Late May 2021",2021-05-17,"MICRO",0.75,"1",NA,"Green Algae",10.585,7.063
+"1025","Late May 2021",2021-05-17,"MICRO",0.75,"1",NA,"Yellow Subst.",0.3805,0.6
+"1026","Late May 2021",2021-05-17,"MICRO",0.75,"2",NA,"Bluegreen",0,0
+"1027","Late May 2021",2021-05-17,"MICRO",0.75,"2",NA,"Cryptophyta",0,0
+"1028","Late May 2021",2021-05-17,"MICRO",0.75,"2",NA,"Diatoms",28.821,17.8815
+"1029","Late May 2021",2021-05-17,"MICRO",0.75,"2",NA,"Green Algae",10.54,7.0455
+"1030","Late May 2021",2021-05-17,"MICRO",0.75,"2",NA,"Yellow Subst.",0.3055,0.5755
+"1031","Late May 2021",2021-05-17,"MICRO",0.75,"3",NA,"Bluegreen",0,0
+"1032","Late May 2021",2021-05-17,"MICRO",0.75,"3",NA,"Cryptophyta",0,0
+"1033","Late May 2021",2021-05-17,"MICRO",0.75,"3",NA,"Diatoms",29.6525,17.9295
+"1034","Late May 2021",2021-05-17,"MICRO",0.75,"3",NA,"Green Algae",10.462,6.9045
+"1035","Late May 2021",2021-05-17,"MICRO",0.75,"3",NA,"Yellow Subst.",0.3455,0.6075
+"1036","Late May 2021",2021-05-17,"MICRO",0.75,"4",NA,"Bluegreen",0,0
+"1037","Late May 2021",2021-05-17,"MICRO",0.75,"4",NA,"Cryptophyta",0,0
+"1038","Late May 2021",2021-05-17,"MICRO",0.75,"4",NA,"Diatoms",29.3865,17.395
+"1039","Late May 2021",2021-05-17,"MICRO",0.75,"4",NA,"Green Algae",10.445,6.981
+"1040","Late May 2021",2021-05-17,"MICRO",0.75,"4",NA,"Yellow Subst.",0.3035,0.5925
+"1041","Late May 2021",2021-05-17,"MESO",1,"1",1,"Bluegreen",0,0
+"1042","Late May 2021",2021-05-17,"MESO",1,"1",1,"Cryptophyta",0,0
+"1043","Late May 2021",2021-05-17,"MESO",1,"1",1,"Diatoms",36.3975,18.0175
+"1044","Late May 2021",2021-05-17,"MESO",1,"1",1,"Green Algae",15.67,9.5935
+"1045","Late May 2021",2021-05-17,"MESO",1,"1",1,"Yellow Subst.",0.022,0.328
+"1046","Late May 2021",2021-05-17,"MICRO",1,"1",1,"Bluegreen",0,0
+"1047","Late May 2021",2021-05-17,"MICRO",1,"1",1,"Cryptophyta",0,0
+"1048","Late May 2021",2021-05-17,"MICRO",1,"1",1,"Diatoms",39.047,25.517
+"1049","Late May 2021",2021-05-17,"MICRO",1,"1",1,"Green Algae",14.1225,9.56
+"1050","Late May 2021",2021-05-17,"MICRO",1,"1",1,"Yellow Subst.",0,0.2755
+"1051","Late May 2021",2021-05-17,"MESO",1,"2",1,"Bluegreen",0,0
+"1052","Late May 2021",2021-05-17,"MESO",1,"2",1,"Cryptophyta",0,0
+"1053","Late May 2021",2021-05-17,"MESO",1,"2",1,"Diatoms",35.6865,18.345
+"1054","Late May 2021",2021-05-17,"MESO",1,"2",1,"Green Algae",15.2685,9.09
+"1055","Late May 2021",2021-05-17,"MESO",1,"2",1,"Yellow Subst.",0.039,0.376
+"1056","Late May 2021",2021-05-17,"MICRO",1,"2",1,"Bluegreen",0,0
+"1057","Late May 2021",2021-05-17,"MICRO",1,"2",1,"Cryptophyta",0,0
+"1058","Late May 2021",2021-05-17,"MICRO",1,"2",1,"Diatoms",39.3635,25.6385
+"1059","Late May 2021",2021-05-17,"MICRO",1,"2",1,"Green Algae",14.2735,9.5415
+"1060","Late May 2021",2021-05-17,"MICRO",1,"2",1,"Yellow Subst.",0,0.2795
+"1061","Late May 2021",2021-05-17,"MESO",1,"3",1,"Bluegreen",0,0
+"1062","Late May 2021",2021-05-17,"MESO",1,"3",1,"Cryptophyta",0,0
+"1063","Late May 2021",2021-05-17,"MESO",1,"3",1,"Diatoms",37.3475,18.2705
+"1064","Late May 2021",2021-05-17,"MESO",1,"3",1,"Green Algae",16.9085,9.3615
+"1065","Late May 2021",2021-05-17,"MESO",1,"3",1,"Yellow Subst.",0.004,0.3745
+"1066","Late May 2021",2021-05-17,"MICRO",1,"3",1,"Bluegreen",0,0
+"1067","Late May 2021",2021-05-17,"MICRO",1,"3",1,"Cryptophyta",0,0
+"1068","Late May 2021",2021-05-17,"MICRO",1,"3",1,"Diatoms",39.91,27.029
+"1069","Late May 2021",2021-05-17,"MICRO",1,"3",1,"Green Algae",14.4235,10.0925
+"1070","Late May 2021",2021-05-17,"MICRO",1,"3",1,"Yellow Subst.",0,0.2715
+"1071","Late May 2021",2021-05-17,"MESO",1,"4",1,"Bluegreen",0,0
+"1072","Late May 2021",2021-05-17,"MESO",1,"4",1,"Cryptophyta",0,0
+"1073","Late May 2021",2021-05-17,"MESO",1,"4",1,"Diatoms",36.2295,18.273
+"1074","Late May 2021",2021-05-17,"MESO",1,"4",1,"Green Algae",16.7415,9.174
+"1075","Late May 2021",2021-05-17,"MESO",1,"4",1,"Yellow Subst.",0.045,0.396
+"1076","Late May 2021",2021-05-17,"MICRO",1,"4",1,"Bluegreen",0,0
+"1077","Late May 2021",2021-05-17,"MICRO",1,"4",1,"Cryptophyta",0,0
+"1078","Late May 2021",2021-05-17,"MICRO",1,"4",1,"Diatoms",40.9375,24.851
+"1079","Late May 2021",2021-05-17,"MICRO",1,"4",1,"Green Algae",14.5435,9.714
+"1080","Late May 2021",2021-05-17,"MICRO",1,"4",1,"Yellow Subst.",0,0.3055
+"1081","Late May 2021",2021-05-17,"MESO",2,"1",2,"Bluegreen",0,0
+"1082","Late May 2021",2021-05-17,"MESO",2,"1",2,"Cryptophyta",0,0
+"1083","Late May 2021",2021-05-17,"MESO",2,"1",2,"Diatoms",43.663,23.9435
+"1084","Late May 2021",2021-05-17,"MESO",2,"1",2,"Green Algae",17.318,11.0675
+"1085","Late May 2021",2021-05-17,"MESO",2,"1",2,"Yellow Subst.",0,0.464
+"1086","Late May 2021",2021-05-17,"MESO",2,"2",2,"Bluegreen",0,0
+"1087","Late May 2021",2021-05-17,"MESO",2,"2",2,"Cryptophyta",0,0
+"1088","Late May 2021",2021-05-17,"MESO",2,"2",2,"Diatoms",46.5435,24.325
+"1089","Late May 2021",2021-05-17,"MESO",2,"2",2,"Green Algae",19.5525,10.982
+"1090","Late May 2021",2021-05-17,"MESO",2,"2",2,"Yellow Subst.",0,0.493
+"1091","Late May 2021",2021-05-17,"MESO",2,"3",2,"Bluegreen",0,0
+"1092","Late May 2021",2021-05-17,"MESO",2,"3",2,"Cryptophyta",0,0
+"1093","Late May 2021",2021-05-17,"MESO",2,"3",2,"Diatoms",41.5275,24.247
+"1094","Late May 2021",2021-05-17,"MESO",2,"3",2,"Green Algae",16.709,10.8385
+"1095","Late May 2021",2021-05-17,"MESO",2,"3",2,"Yellow Subst.",0,0.497
+"1096","Late May 2021",2021-05-17,"MESO",2,"4",2,"Bluegreen",0,0
+"1097","Late May 2021",2021-05-17,"MESO",2,"4",2,"Cryptophyta",0,0
+"1098","Late May 2021",2021-05-17,"MESO",2,"4",2,"Diatoms",46.225,23.5035
+"1099","Late May 2021",2021-05-17,"MESO",2,"4",2,"Green Algae",18.861,10.9575
+"1100","Late May 2021",2021-05-17,"MESO",2,"4",2,"Yellow Subst.",0.002,0.4365
+"1101","Late May 2021",2021-05-17,"MESO",4,"1",4,"Bluegreen",0,0
+"1102","Late May 2021",2021-05-17,"MESO",4,"1",4,"Cryptophyta",0,0
+"1103","Late May 2021",2021-05-17,"MESO",4,"1",4,"Diatoms",42.956,27.4405
+"1104","Late May 2021",2021-05-17,"MESO",4,"1",4,"Green Algae",18.337,12.46
+"1105","Late May 2021",2021-05-17,"MESO",4,"1",4,"Yellow Subst.",0,0.247
+"1106","Late May 2021",2021-05-17,"MESO",4,"2",4,"Bluegreen",0,0
+"1107","Late May 2021",2021-05-17,"MESO",4,"2",4,"Cryptophyta",0,0
+"1108","Late May 2021",2021-05-17,"MESO",4,"2",4,"Diatoms",44.139,27.258
+"1109","Late May 2021",2021-05-17,"MESO",4,"2",4,"Green Algae",17.5125,12.2585
+"1110","Late May 2021",2021-05-17,"MESO",4,"2",4,"Yellow Subst.",0,0.2285
+"1111","Late May 2021",2021-05-17,"MESO",4,"3",4,"Bluegreen",0,0
+"1112","Late May 2021",2021-05-17,"MESO",4,"3",4,"Cryptophyta",0,0
+"1113","Late May 2021",2021-05-17,"MESO",4,"3",4,"Diatoms",45.4735,27.467
+"1114","Late May 2021",2021-05-17,"MESO",4,"3",4,"Green Algae",18.181,12.348
+"1115","Late May 2021",2021-05-17,"MESO",4,"3",4,"Yellow Subst.",0,0.2075
+"1116","Late May 2021",2021-05-17,"MESO",4,"4",4,"Bluegreen",0,0
+"1117","Late May 2021",2021-05-17,"MESO",4,"4",4,"Cryptophyta",0,0
+"1118","Late May 2021",2021-05-17,"MESO",4,"4",4,"Diatoms",45.2095,26.409
+"1119","Late May 2021",2021-05-17,"MESO",4,"4",4,"Green Algae",18.5435,12.232
+"1120","Late May 2021",2021-05-17,"MESO",4,"4",4,"Yellow Subst.",0,0.233
+"1121","Late September 2021",2021-10-04,"MESO",0,"1",0,"Bluegreen",8.03,7.61
+"1122","Late September 2021",2021-10-04,"MESO",0,"1",0,"Cryptophyta",0.81,2.52
+"1123","Late September 2021",2021-10-04,"MESO",0,"1",0,"Diatoms",4.64,2.09
+"1124","Late September 2021",2021-10-04,"MESO",0,"1",0,"Green Algae",2.86,1.77
+"1125","Late September 2021",2021-10-04,"MESO",0,"1",0,"Yellow Subst.",1.14,1.33
+"1126","Late September 2021",2021-10-04,"MESO",0,"2",0,"Bluegreen",8.44,8.43
+"1127","Late September 2021",2021-10-04,"MESO",0,"2",0,"Cryptophyta",0.68,2.14
+"1128","Late September 2021",2021-10-04,"MESO",0,"2",0,"Diatoms",4.45,2.5
+"1129","Late September 2021",2021-10-04,"MESO",0,"2",0,"Green Algae",2.26,2
+"1130","Late September 2021",2021-10-04,"MESO",0,"2",0,"Yellow Subst.",1.27,1.44
+"1131","Late September 2021",2021-10-04,"MESO",0,"3",0,"Bluegreen",7.44,8.78
+"1132","Late September 2021",2021-10-04,"MESO",0,"3",0,"Cryptophyta",1.67,4.4
+"1133","Late September 2021",2021-10-04,"MESO",0,"3",0,"Diatoms",3.43,0.68
+"1134","Late September 2021",2021-10-04,"MESO",0,"3",0,"Green Algae",2.59,1.93
+"1135","Late September 2021",2021-10-04,"MESO",0,"3",0,"Yellow Subst.",1.26,1.5
+"1136","Late September 2021",2021-10-04,"MESO",0,"4",0,"Bluegreen",7.94,8.88
+"1137","Late September 2021",2021-10-04,"MESO",0,"4",0,"Cryptophyta",1.17,1.77
+"1138","Late September 2021",2021-10-04,"MESO",0,"4",0,"Diatoms",3.86,2.59
+"1139","Late September 2021",2021-10-04,"MESO",0,"4",0,"Green Algae",2.58,1.9
+"1140","Late September 2021",2021-10-04,"MESO",0,"4",0,"Yellow Subst.",1.29,1.33
+"1141","Late September 2021",2021-10-04,"MICRO",0.25,"1",NA,"Bluegreen",2.65,2.48
+"1142","Late September 2021",2021-10-04,"MICRO",0.25,"1",NA,"Cryptophyta",1.45,0.2
+"1143","Late September 2021",2021-10-04,"MICRO",0.25,"1",NA,"Diatoms",0.96,1.27
+"1144","Late September 2021",2021-10-04,"MICRO",0.25,"1",NA,"Green Algae",0.9,0.34
+"1145","Late September 2021",2021-10-04,"MICRO",0.25,"1",NA,"Yellow Subst.",0.99,0.86
+"1146","Late September 2021",2021-10-04,"MICRO",0.25,"2",NA,"Bluegreen",2.42,2.51
+"1147","Late September 2021",2021-10-04,"MICRO",0.25,"2",NA,"Cryptophyta",0.44,0.73
+"1148","Late September 2021",2021-10-04,"MICRO",0.25,"2",NA,"Diatoms",1.96,0.7
+"1149","Late September 2021",2021-10-04,"MICRO",0.25,"2",NA,"Green Algae",0.95,0.44
+"1150","Late September 2021",2021-10-04,"MICRO",0.25,"2",NA,"Yellow Subst.",0.86,0.93
+"1151","Late September 2021",2021-10-04,"MICRO",0.25,"3",NA,"Bluegreen",2.56,2.32
+"1152","Late September 2021",2021-10-04,"MICRO",0.25,"3",NA,"Cryptophyta",1,0.66
+"1153","Late September 2021",2021-10-04,"MICRO",0.25,"3",NA,"Diatoms",1.27,0.84
+"1154","Late September 2021",2021-10-04,"MICRO",0.25,"3",NA,"Green Algae",0.95,0.34
+"1155","Late September 2021",2021-10-04,"MICRO",0.25,"3",NA,"Yellow Subst.",0.9,0.9
+"1156","Late September 2021",2021-10-04,"MICRO",0.25,"4",NA,"Bluegreen",2.94,2.46
+"1157","Late September 2021",2021-10-04,"MICRO",0.25,"4",NA,"Cryptophyta",0.62,0.81
+"1158","Late September 2021",2021-10-04,"MICRO",0.25,"4",NA,"Diatoms",1.74,0.75
+"1159","Late September 2021",2021-10-04,"MICRO",0.25,"4",NA,"Green Algae",0.86,0.31
+"1160","Late September 2021",2021-10-04,"MICRO",0.25,"4",NA,"Yellow Subst.",0.91,0.92
+"1161","Late September 2021",2021-10-04,"MICRO",0.5,"1",NA,"Bluegreen",4.52,4.64
+"1162","Late September 2021",2021-10-04,"MICRO",0.5,"1",NA,"Cryptophyta",1.29,1.04
+"1163","Late September 2021",2021-10-04,"MICRO",0.5,"1",NA,"Diatoms",3.32,1.88
+"1164","Late September 2021",2021-10-04,"MICRO",0.5,"1",NA,"Green Algae",2.41,1.23
+"1165","Late September 2021",2021-10-04,"MICRO",0.5,"1",NA,"Yellow Subst.",1,1.04
+"1166","Late September 2021",2021-10-04,"MICRO",0.5,"2",NA,"Bluegreen",4.44,4.34
+"1167","Late September 2021",2021-10-04,"MICRO",0.5,"2",NA,"Cryptophyta",2.91,1.19
+"1168","Late September 2021",2021-10-04,"MICRO",0.5,"2",NA,"Diatoms",1.57,1.7
+"1169","Late September 2021",2021-10-04,"MICRO",0.5,"2",NA,"Green Algae",2.28,1.12
+"1170","Late September 2021",2021-10-04,"MICRO",0.5,"2",NA,"Yellow Subst.",1.17,1.06
+"1171","Late September 2021",2021-10-04,"MICRO",0.5,"3",NA,"Bluegreen",4.88,4.08
+"1172","Late September 2021",2021-10-04,"MICRO",0.5,"3",NA,"Cryptophyta",1.23,0.83
+"1173","Late September 2021",2021-10-04,"MICRO",0.5,"3",NA,"Diatoms",2.87,2
+"1174","Late September 2021",2021-10-04,"MICRO",0.5,"3",NA,"Green Algae",2.2,1.16
+"1175","Late September 2021",2021-10-04,"MICRO",0.5,"3",NA,"Yellow Subst.",1,0.97
+"1176","Late September 2021",2021-10-04,"MICRO",0.5,"4",NA,"Bluegreen",5.67,4.55
+"1177","Late September 2021",2021-10-04,"MICRO",0.5,"4",NA,"Cryptophyta",2.22,1.64
+"1178","Late September 2021",2021-10-04,"MICRO",0.5,"4",NA,"Diatoms",2.49,1.35
+"1179","Late September 2021",2021-10-04,"MICRO",0.5,"4",NA,"Green Algae",3.03,1.35
+"1180","Late September 2021",2021-10-04,"MICRO",0.5,"4",NA,"Yellow Subst.",1.09,1.08
+"1181","Late September 2021",2021-10-04,"MICRO",0.75,"1",NA,"Bluegreen",6.46,6.54
+"1182","Late September 2021",2021-10-04,"MICRO",0.75,"1",NA,"Cryptophyta",1.69,3.14
+"1183","Late September 2021",2021-10-04,"MICRO",0.75,"1",NA,"Diatoms",4.71,1.24
+"1184","Late September 2021",2021-10-04,"MICRO",0.75,"1",NA,"Green Algae",3.83,1.86
+"1185","Late September 2021",2021-10-04,"MICRO",0.75,"1",NA,"Yellow Subst.",1.15,1.27
+"1186","Late September 2021",2021-10-04,"MICRO",0.75,"2",NA,"Bluegreen",7.37,6.29
+"1187","Late September 2021",2021-10-04,"MICRO",0.75,"2",NA,"Cryptophyta",1.67,1.58
+"1188","Late September 2021",2021-10-04,"MICRO",0.75,"2",NA,"Diatoms",4.58,2.85
+"1189","Late September 2021",2021-10-04,"MICRO",0.75,"2",NA,"Green Algae",3.52,1.77
+"1190","Late September 2021",2021-10-04,"MICRO",0.75,"2",NA,"Yellow Subst.",1.1,1.17
+"1191","Late September 2021",2021-10-04,"MICRO",0.75,"3",NA,"Bluegreen",7.62,6.36
+"1192","Late September 2021",2021-10-04,"MICRO",0.75,"3",NA,"Cryptophyta",1.34,1.64
+"1193","Late September 2021",2021-10-04,"MICRO",0.75,"3",NA,"Diatoms",4.36,2.34
+"1194","Late September 2021",2021-10-04,"MICRO",0.75,"3",NA,"Green Algae",4.66,2.04
+"1195","Late September 2021",2021-10-04,"MICRO",0.75,"3",NA,"Yellow Subst.",1.06,1.13
+"1196","Late September 2021",2021-10-04,"MICRO",0.75,"4",NA,"Bluegreen",8.46,6.74
+"1197","Late September 2021",2021-10-04,"MICRO",0.75,"4",NA,"Cryptophyta",0.81,2.37
+"1198","Late September 2021",2021-10-04,"MICRO",0.75,"4",NA,"Diatoms",5.62,2.01
+"1199","Late September 2021",2021-10-04,"MICRO",0.75,"4",NA,"Green Algae",3.62,1.48
+"1200","Late September 2021",2021-10-04,"MICRO",0.75,"4",NA,"Yellow Subst.",1.12,1.27
+"1201","Late September 2021",2021-10-04,"MESO",1,"1",40,"Bluegreen",6.86,8.96
+"1202","Late September 2021",2021-10-04,"MESO",1,"1",40,"Cryptophyta",0.69,5.18
+"1203","Late September 2021",2021-10-04,"MESO",1,"1",40,"Diatoms",4.74,0.74
+"1204","Late September 2021",2021-10-04,"MESO",1,"1",40,"Green Algae",2.54,1.42
+"1205","Late September 2021",2021-10-04,"MESO",1,"1",40,"Yellow Subst.",1.31,1.68
+"1206","Late September 2021",2021-10-04,"MICRO",1,"1",40,"Bluegreen",9.48,9.04
+"1207","Late September 2021",2021-10-04,"MICRO",1,"1",40,"Cryptophyta",0.81,4.58
+"1208","Late September 2021",2021-10-04,"MICRO",1,"1",40,"Diatoms",7.36,1.57
+"1209","Late September 2021",2021-10-04,"MICRO",1,"1",40,"Green Algae",5.33,2.42
+"1210","Late September 2021",2021-10-04,"MICRO",1,"1",40,"Yellow Subst.",1.08,1.4
+"1211","Late September 2021",2021-10-04,"MESO",1,"2",40,"Bluegreen",7.22,10.75
+"1212","Late September 2021",2021-10-04,"MESO",1,"2",40,"Cryptophyta",0.98,1.5
+"1213","Late September 2021",2021-10-04,"MESO",1,"2",40,"Diatoms",5.14,4.29
+"1214","Late September 2021",2021-10-04,"MESO",1,"2",40,"Green Algae",2.66,2.09
+"1215","Late September 2021",2021-10-04,"MESO",1,"2",40,"Yellow Subst.",1.38,1.44
+"1216","Late September 2021",2021-10-04,"MICRO",1,"2",40,"Bluegreen",10.06,9.31
+"1217","Late September 2021",2021-10-04,"MICRO",1,"2",40,"Cryptophyta",1.15,5.4
+"1218","Late September 2021",2021-10-04,"MICRO",1,"2",40,"Diatoms",7.41,0.94
+"1219","Late September 2021",2021-10-04,"MICRO",1,"2",40,"Green Algae",5.06,2.37
+"1220","Late September 2021",2021-10-04,"MICRO",1,"2",40,"Yellow Subst.",1.15,1.5
+"1221","Late September 2021",2021-10-04,"MESO",1,"3",40,"Bluegreen",7.02,9.06
+"1222","Late September 2021",2021-10-04,"MESO",1,"3",40,"Cryptophyta",0.92,1.69
+"1223","Late September 2021",2021-10-04,"MESO",1,"3",40,"Diatoms",4.97,3.59
+"1224","Late September 2021",2021-10-04,"MESO",1,"3",40,"Green Algae",2.42,1.48
+"1225","Late September 2021",2021-10-04,"MESO",1,"3",40,"Yellow Subst.",1.31,1.5
+"1226","Late September 2021",2021-10-04,"MICRO",1,"3",40,"Bluegreen",9.84,9.15
+"1227","Late September 2021",2021-10-04,"MICRO",1,"3",40,"Cryptophyta",1.14,1.67
+"1228","Late September 2021",2021-10-04,"MICRO",1,"3",40,"Diatoms",7.34,4
+"1229","Late September 2021",2021-10-04,"MICRO",1,"3",40,"Green Algae",5.22,3.09
+"1230","Late September 2021",2021-10-04,"MICRO",1,"3",40,"Yellow Subst.",1.07,1.22
+"1231","Late September 2021",2021-10-04,"MESO",1,"4",40,"Bluegreen",7.3,9.08
+"1232","Late September 2021",2021-10-04,"MESO",1,"4",40,"Cryptophyta",0.5,2.46
+"1233","Late September 2021",2021-10-04,"MESO",1,"4",40,"Diatoms",4.29,2.72
+"1234","Late September 2021",2021-10-04,"MESO",1,"4",40,"Green Algae",2.3,1.77
+"1235","Late September 2021",2021-10-04,"MESO",1,"4",40,"Yellow Subst.",1.33,1.55
+"1236","Late September 2021",2021-10-04,"MICRO",1,"4",40,"Bluegreen",9.97,8.4
+"1237","Late September 2021",2021-10-04,"MICRO",1,"4",40,"Cryptophyta",1.17,1.85
+"1238","Late September 2021",2021-10-04,"MICRO",1,"4",40,"Diatoms",7.2,3.62
+"1239","Late September 2021",2021-10-04,"MICRO",1,"4",40,"Green Algae",4.92,2.67
+"1240","Late September 2021",2021-10-04,"MICRO",1,"4",40,"Yellow Subst.",1.16,1.25
+"1241","Late September 2021",2021-10-04,"MESO",2,"1",80,"Bluegreen",7.44,9.94
+"1242","Late September 2021",2021-10-04,"MESO",2,"1",80,"Cryptophyta",1.23,1.69
+"1243","Late September 2021",2021-10-04,"MESO",2,"1",80,"Diatoms",4.13,3.54
+"1244","Late September 2021",2021-10-04,"MESO",2,"1",80,"Green Algae",2.08,1.42
+"1245","Late September 2021",2021-10-04,"MESO",2,"1",80,"Yellow Subst.",1.4,1.52
+"1246","Late September 2021",2021-10-04,"MESO",2,"2",80,"Bluegreen",7.18,10.45
+"1247","Late September 2021",2021-10-04,"MESO",2,"2",80,"Cryptophyta",1.35,3.43
+"1248","Late September 2021",2021-10-04,"MESO",2,"2",80,"Diatoms",4.99,2.59
+"1249","Late September 2021",2021-10-04,"MESO",2,"2",80,"Green Algae",2.3,1.48
+"1250","Late September 2021",2021-10-04,"MESO",2,"2",80,"Yellow Subst.",1.36,1.6
+"1251","Late September 2021",2021-10-04,"MESO",2,"3",80,"Bluegreen",5.84,10.09
+"1252","Late September 2021",2021-10-04,"MESO",2,"3",80,"Cryptophyta",1.92,1.58
+"1253","Late September 2021",2021-10-04,"MESO",2,"3",80,"Diatoms",3.51,4.6
+"1254","Late September 2021",2021-10-04,"MESO",2,"3",80,"Green Algae",2.46,1.84
+"1255","Late September 2021",2021-10-04,"MESO",2,"3",80,"Yellow Subst.",1.38,1.51
+"1256","Late September 2021",2021-10-04,"MESO",2,"4",80,"Bluegreen",7.12,9.29
+"1257","Late September 2021",2021-10-04,"MESO",2,"4",80,"Cryptophyta",0.38,3.96
+"1258","Late September 2021",2021-10-04,"MESO",2,"4",80,"Diatoms",4.65,2.36
+"1259","Late September 2021",2021-10-04,"MESO",2,"4",80,"Green Algae",2.28,1.65
+"1260","Late September 2021",2021-10-04,"MESO",2,"4",80,"Yellow Subst.",1.46,1.7
+"1261","Late September 2021",2021-10-04,"MESO",4,"1",160,"Bluegreen",9.83,9.12
+"1262","Late September 2021",2021-10-04,"MESO",4,"1",160,"Cryptophyta",1.88,3
+"1263","Late September 2021",2021-10-04,"MESO",4,"1",160,"Diatoms",7.4,3.28
+"1264","Late September 2021",2021-10-04,"MESO",4,"1",160,"Green Algae",2.68,1.34
+"1265","Late September 2021",2021-10-04,"MESO",4,"1",160,"Yellow Subst.",1.6,1.82
+"1266","Late September 2021",2021-10-04,"MESO",4,"2",160,"Bluegreen",8.37,11.05
+"1267","Late September 2021",2021-10-04,"MESO",4,"2",160,"Cryptophyta",1.86,4.66
+"1268","Late September 2021",2021-10-04,"MESO",4,"2",160,"Diatoms",5.53,2.46
+"1269","Late September 2021",2021-10-04,"MESO",4,"2",160,"Green Algae",2.37,1.34
+"1270","Late September 2021",2021-10-04,"MESO",4,"2",160,"Yellow Subst.",1.64,1.92
+"1271","Late September 2021",2021-10-04,"MESO",4,"3",160,"Bluegreen",9.16,11.93
+"1272","Late September 2021",2021-10-04,"MESO",4,"3",160,"Cryptophyta",1.3,1.6
+"1273","Late September 2021",2021-10-04,"MESO",4,"3",160,"Diatoms",5.25,5.08
+"1274","Late September 2021",2021-10-04,"MESO",4,"3",160,"Green Algae",1.64,1.13
+"1275","Late September 2021",2021-10-04,"MESO",4,"3",160,"Yellow Subst.",1.6,1.83
+"1276","Late September 2021",2021-10-04,"MESO",4,"4",160,"Bluegreen",9.85,10.66
+"1277","Late September 2021",2021-10-04,"MESO",4,"4",160,"Cryptophyta",1.46,4.61
+"1278","Late September 2021",2021-10-04,"MESO",4,"4",160,"Diatoms",5.04,3
+"1279","Late September 2021",2021-10-04,"MESO",4,"4",160,"Green Algae",1.88,1.54
+"1280","Late September 2021",2021-10-04,"MESO",4,"4",160,"Yellow Subst.",1.52,2.02
+"1281","Mid July 2021",2021-07-14,"MESO",0,"1",0,"Bluegreen",1.06,0.65
+"1282","Mid July 2021",2021-07-14,"MESO",0,"1",0,"Cryptophyta",0.49,0.06
+"1283","Mid July 2021",2021-07-14,"MESO",0,"1",0,"Diatoms",3.89,2.26
+"1284","Mid July 2021",2021-07-14,"MESO",0,"1",0,"Green Algae",3.16,1.6
+"1285","Mid July 2021",2021-07-14,"MESO",0,"1",0,"Yellow Subst.",0.7,0.76
+"1286","Mid July 2021",2021-07-14,"MESO",0,"2",0,"Bluegreen",1.25,0.68
+"1287","Mid July 2021",2021-07-14,"MESO",0,"2",0,"Cryptophyta",0.09,0.1
+"1288","Mid July 2021",2021-07-14,"MESO",0,"2",0,"Diatoms",4.46,2.44
+"1289","Mid July 2021",2021-07-14,"MESO",0,"2",0,"Green Algae",3.54,1.58
+"1290","Mid July 2021",2021-07-14,"MESO",0,"2",0,"Yellow Subst.",0.65,0.78
+"1291","Mid July 2021",2021-07-14,"MESO",0,"3",0,"Bluegreen",1.31,0.68
+"1292","Mid July 2021",2021-07-14,"MESO",0,"3",0,"Cryptophyta",0.08,0.17
+"1293","Mid July 2021",2021-07-14,"MESO",0,"3",0,"Diatoms",4.41,2.26
+"1294","Mid July 2021",2021-07-14,"MESO",0,"3",0,"Green Algae",3.64,1.63
+"1295","Mid July 2021",2021-07-14,"MESO",0,"3",0,"Yellow Subst.",0.6,0.78
+"1296","Mid July 2021",2021-07-14,"MESO",0,"4",0,"Bluegreen",1.27,0.64
+"1297","Mid July 2021",2021-07-14,"MESO",0,"4",0,"Cryptophyta",0.02,0.14
+"1298","Mid July 2021",2021-07-14,"MESO",0,"4",0,"Diatoms",4,2.22
+"1299","Mid July 2021",2021-07-14,"MESO",0,"4",0,"Green Algae",2.96,1.58
+"1300","Mid July 2021",2021-07-14,"MESO",0,"4",0,"Yellow Subst.",0.61,0.76
+"1301","Mid July 2021",2021-07-14,"MICRO",0.25,"1",NA,"Bluegreen",0.1,0.12
+"1302","Mid July 2021",2021-07-14,"MICRO",0.25,"1",NA,"Cryptophyta",0.06,0.09
+"1303","Mid July 2021",2021-07-14,"MICRO",0.25,"1",NA,"Diatoms",1.24,0.77
+"1304","Mid July 2021",2021-07-14,"MICRO",0.25,"1",NA,"Green Algae",0.61,0.04
+"1305","Mid July 2021",2021-07-14,"MICRO",0.25,"1",NA,"Yellow Subst.",0.52,0.66
+"1306","Mid July 2021",2021-07-14,"MICRO",0.25,"2",NA,"Bluegreen",0.14,0.08
+"1307","Mid July 2021",2021-07-14,"MICRO",0.25,"2",NA,"Cryptophyta",0.11,0.19
+"1308","Mid July 2021",2021-07-14,"MICRO",0.25,"2",NA,"Diatoms",1.04,0.71
+"1309","Mid July 2021",2021-07-14,"MICRO",0.25,"2",NA,"Green Algae",0.53,0.07
+"1310","Mid July 2021",2021-07-14,"MICRO",0.25,"2",NA,"Yellow Subst.",0.56,0.69
+"1311","Mid July 2021",2021-07-14,"MICRO",0.25,"3",NA,"Bluegreen",0.15,0.12
+"1312","Mid July 2021",2021-07-14,"MICRO",0.25,"3",NA,"Cryptophyta",0.08,0.03
+"1313","Mid July 2021",2021-07-14,"MICRO",0.25,"3",NA,"Diatoms",1.08,0.89
+"1314","Mid July 2021",2021-07-14,"MICRO",0.25,"3",NA,"Green Algae",0.6,0.08
+"1315","Mid July 2021",2021-07-14,"MICRO",0.25,"3",NA,"Yellow Subst.",0.52,0.64
+"1316","Mid July 2021",2021-07-14,"MICRO",0.25,"4",NA,"Bluegreen",0.11,0.12
+"1317","Mid July 2021",2021-07-14,"MICRO",0.25,"4",NA,"Cryptophyta",0.16,0.03
+"1318","Mid July 2021",2021-07-14,"MICRO",0.25,"4",NA,"Diatoms",1.08,0.82
+"1319","Mid July 2021",2021-07-14,"MICRO",0.25,"4",NA,"Green Algae",0.51,0.08
+"1320","Mid July 2021",2021-07-14,"MICRO",0.25,"4",NA,"Yellow Subst.",0.56,0.6
+"1321","Mid July 2021",2021-07-14,"MICRO",0.5,"1",NA,"Bluegreen",0.34,0.33
+"1322","Mid July 2021",2021-07-14,"MICRO",0.5,"1",NA,"Cryptophyta",0.25,0.07
+"1323","Mid July 2021",2021-07-14,"MICRO",0.5,"1",NA,"Diatoms",1.86,1.44
+"1324","Mid July 2021",2021-07-14,"MICRO",0.5,"1",NA,"Green Algae",1.46,0.45
+"1325","Mid July 2021",2021-07-14,"MICRO",0.5,"1",NA,"Yellow Subst.",0.57,0.71
+"1326","Mid July 2021",2021-07-14,"MICRO",0.5,"2",NA,"Bluegreen",0.32,0.5
+"1327","Mid July 2021",2021-07-14,"MICRO",0.5,"2",NA,"Cryptophyta",0.15,0.01
+"1328","Mid July 2021",2021-07-14,"MICRO",0.5,"2",NA,"Diatoms",1.9,1.44
+"1329","Mid July 2021",2021-07-14,"MICRO",0.5,"2",NA,"Green Algae",1.59,0.45
+"1330","Mid July 2021",2021-07-14,"MICRO",0.5,"2",NA,"Yellow Subst.",0.52,0.68
+"1331","Mid July 2021",2021-07-14,"MICRO",0.5,"3",NA,"Bluegreen",0.5,0.66
+"1332","Mid July 2021",2021-07-14,"MICRO",0.5,"3",NA,"Cryptophyta",0.3,0.3
+"1333","Mid July 2021",2021-07-14,"MICRO",0.5,"3",NA,"Diatoms",2.07,1.29
+"1334","Mid July 2021",2021-07-14,"MICRO",0.5,"3",NA,"Green Algae",1.44,0.61
+"1335","Mid July 2021",2021-07-14,"MICRO",0.5,"3",NA,"Yellow Subst.",0.6,0.71
+"1336","Mid July 2021",2021-07-14,"MICRO",0.5,"4",NA,"Bluegreen",0.44,0.32
+"1337","Mid July 2021",2021-07-14,"MICRO",0.5,"4",NA,"Cryptophyta",0.12,0.01
+"1338","Mid July 2021",2021-07-14,"MICRO",0.5,"4",NA,"Diatoms",2,1.46
+"1339","Mid July 2021",2021-07-14,"MICRO",0.5,"4",NA,"Green Algae",1.33,0.58
+"1340","Mid July 2021",2021-07-14,"MICRO",0.5,"4",NA,"Yellow Subst.",0.53,0.65
+"1341","Mid July 2021",2021-07-14,"MICRO",0.75,"1",NA,"Bluegreen",0.61,0.43
+"1342","Mid July 2021",2021-07-14,"MICRO",0.75,"1",NA,"Cryptophyta",0.38,0.06
+"1343","Mid July 2021",2021-07-14,"MICRO",0.75,"1",NA,"Diatoms",2.83,2.02
+"1344","Mid July 2021",2021-07-14,"MICRO",0.75,"1",NA,"Green Algae",2.36,0.99
+"1345","Mid July 2021",2021-07-14,"MICRO",0.75,"1",NA,"Yellow Subst.",0.62,0.66
+"1346","Mid July 2021",2021-07-14,"MICRO",0.75,"2",NA,"Bluegreen",0.65,0.47
+"1347","Mid July 2021",2021-07-14,"MICRO",0.75,"2",NA,"Cryptophyta",0.12,0.11
+"1348","Mid July 2021",2021-07-14,"MICRO",0.75,"2",NA,"Diatoms",3.17,1.96
+"1349","Mid July 2021",2021-07-14,"MICRO",0.75,"2",NA,"Green Algae",2.34,0.88
+"1350","Mid July 2021",2021-07-14,"MICRO",0.75,"2",NA,"Yellow Subst.",0.53,0.71
+"1351","Mid July 2021",2021-07-14,"MICRO",0.75,"3",NA,"Bluegreen",0.58,0.46
+"1352","Mid July 2021",2021-07-14,"MICRO",0.75,"3",NA,"Cryptophyta",0.1,0.06
+"1353","Mid July 2021",2021-07-14,"MICRO",0.75,"3",NA,"Diatoms",2.98,2.03
+"1354","Mid July 2021",2021-07-14,"MICRO",0.75,"3",NA,"Green Algae",2.56,0.96
+"1355","Mid July 2021",2021-07-14,"MICRO",0.75,"3",NA,"Yellow Subst.",0.51,0.67
+"1356","Mid July 2021",2021-07-14,"MICRO",0.75,"4",NA,"Bluegreen",0.72,0.42
+"1357","Mid July 2021",2021-07-14,"MICRO",0.75,"4",NA,"Cryptophyta",0.22,0.32
+"1358","Mid July 2021",2021-07-14,"MICRO",0.75,"4",NA,"Diatoms",3.19,1.65
+"1359","Mid July 2021",2021-07-14,"MICRO",0.75,"4",NA,"Green Algae",2.5,1.02
+"1360","Mid July 2021",2021-07-14,"MICRO",0.75,"4",NA,"Yellow Subst.",0.56,0.68
+"1361","Mid July 2021",2021-07-14,"MESO",1,"1",10,"Bluegreen",1.34,0.89
+"1362","Mid July 2021",2021-07-14,"MESO",1,"1",10,"Cryptophyta",0.06,0.29
+"1363","Mid July 2021",2021-07-14,"MESO",1,"1",10,"Diatoms",4.82,2.38
+"1364","Mid July 2021",2021-07-14,"MESO",1,"1",10,"Green Algae",3.93,1.57
+"1365","Mid July 2021",2021-07-14,"MESO",1,"1",10,"Yellow Subst.",0.6,0.79
+"1366","Mid July 2021",2021-07-14,"MICRO",1,"1",10,"Bluegreen",0.88,0.58
+"1367","Mid July 2021",2021-07-14,"MICRO",1,"1",10,"Cryptophyta",0.23,0.3
+"1368","Mid July 2021",2021-07-14,"MICRO",1,"1",10,"Diatoms",3.78,2.33
+"1369","Mid July 2021",2021-07-14,"MICRO",1,"1",10,"Green Algae",3.18,1.35
+"1370","Mid July 2021",2021-07-14,"MICRO",1,"1",10,"Yellow Subst.",0.56,0.74
+"1371","Mid July 2021",2021-07-14,"MESO",1,"2",10,"Bluegreen",1.27,0.79
+"1372","Mid July 2021",2021-07-14,"MESO",1,"2",10,"Cryptophyta",0.24,0.19
+"1373","Mid July 2021",2021-07-14,"MESO",1,"2",10,"Diatoms",4.66,2.6
+"1374","Mid July 2021",2021-07-14,"MESO",1,"2",10,"Green Algae",3.59,1.46
+"1375","Mid July 2021",2021-07-14,"MESO",1,"2",10,"Yellow Subst.",0.69,0.8
+"1376","Mid July 2021",2021-07-14,"MICRO",1,"2",10,"Bluegreen",0.88,0.64
+"1377","Mid July 2021",2021-07-14,"MICRO",1,"2",10,"Cryptophyta",0.16,0.16
+"1378","Mid July 2021",2021-07-14,"MICRO",1,"2",10,"Diatoms",4.03,2.58
+"1379","Mid July 2021",2021-07-14,"MICRO",1,"2",10,"Green Algae",3.26,1.52
+"1380","Mid July 2021",2021-07-14,"MICRO",1,"2",10,"Yellow Subst.",0.52,0.72
+"1381","Mid July 2021",2021-07-14,"MESO",1,"3",10,"Bluegreen",1.05,0.79
+"1382","Mid July 2021",2021-07-14,"MESO",1,"3",10,"Cryptophyta",0.07,0.62
+"1383","Mid July 2021",2021-07-14,"MESO",1,"3",10,"Diatoms",4.56,2.46
+"1384","Mid July 2021",2021-07-14,"MESO",1,"3",10,"Green Algae",3.25,1.71
+"1385","Mid July 2021",2021-07-14,"MESO",1,"3",10,"Yellow Subst.",0.6,0.88
+"1386","Mid July 2021",2021-07-14,"MICRO",1,"3",10,"Bluegreen",0.94,0.75
+"1387","Mid July 2021",2021-07-14,"MICRO",1,"3",10,"Cryptophyta",0.16,0.17
+"1388","Mid July 2021",2021-07-14,"MICRO",1,"3",10,"Diatoms",3.75,2.6
+"1389","Mid July 2021",2021-07-14,"MICRO",1,"3",10,"Green Algae",3.24,1.5
+"1390","Mid July 2021",2021-07-14,"MICRO",1,"3",10,"Yellow Subst.",0.53,0.73
+"1391","Mid July 2021",2021-07-14,"MESO",1,"4",10,"Bluegreen",1.02,0.86
+"1392","Mid July 2021",2021-07-14,"MESO",1,"4",10,"Cryptophyta",0.06,0.33
+"1393","Mid July 2021",2021-07-14,"MESO",1,"4",10,"Diatoms",4.44,2.57
+"1394","Mid July 2021",2021-07-14,"MESO",1,"4",10,"Green Algae",3.6,1.57
+"1395","Mid July 2021",2021-07-14,"MESO",1,"4",10,"Yellow Subst.",0.64,0.81
+"1396","Mid July 2021",2021-07-14,"MICRO",1,"4",10,"Bluegreen",0.88,0.62
+"1397","Mid July 2021",2021-07-14,"MICRO",1,"4",10,"Cryptophyta",0.24,0.04
+"1398","Mid July 2021",2021-07-14,"MICRO",1,"4",10,"Diatoms",3.65,2.63
+"1399","Mid July 2021",2021-07-14,"MICRO",1,"4",10,"Green Algae",3.13,1.52
+"1400","Mid July 2021",2021-07-14,"MICRO",1,"4",10,"Yellow Subst.",0.54,0.69
+"1401","Mid July 2021",2021-07-14,"MESO",2,"1",20,"Bluegreen",1.04,0.67
+"1402","Mid July 2021",2021-07-14,"MESO",2,"1",20,"Cryptophyta",0.1,0.45
+"1403","Mid July 2021",2021-07-14,"MESO",2,"1",20,"Diatoms",4.97,2.7
+"1404","Mid July 2021",2021-07-14,"MESO",2,"1",20,"Green Algae",3.9,1.63
+"1405","Mid July 2021",2021-07-14,"MESO",2,"1",20,"Yellow Subst.",0.58,0.82
+"1406","Mid July 2021",2021-07-14,"MESO",2,"2",20,"Bluegreen",1.19,0.77
+"1407","Mid July 2021",2021-07-14,"MESO",2,"2",20,"Cryptophyta",0.32,0.13
+"1408","Mid July 2021",2021-07-14,"MESO",2,"2",20,"Diatoms",4.57,3.04
+"1409","Mid July 2021",2021-07-14,"MESO",2,"2",20,"Green Algae",3.18,1.67
+"1410","Mid July 2021",2021-07-14,"MESO",2,"2",20,"Yellow Subst.",0.63,0.76
+"1411","Mid July 2021",2021-07-14,"MESO",2,"3",20,"Bluegreen",1.15,0.74
+"1412","Mid July 2021",2021-07-14,"MESO",2,"3",20,"Cryptophyta",0.22,1.14
+"1413","Mid July 2021",2021-07-14,"MESO",2,"3",20,"Diatoms",4.77,1.96
+"1414","Mid July 2021",2021-07-14,"MESO",2,"3",20,"Green Algae",3.88,1.61
+"1415","Mid July 2021",2021-07-14,"MESO",2,"3",20,"Yellow Subst.",0.59,0.92
+"1416","Mid July 2021",2021-07-14,"MESO",2,"4",20,"Bluegreen",1.06,0.79
+"1417","Mid July 2021",2021-07-14,"MESO",2,"4",20,"Cryptophyta",0.09,1.12
+"1418","Mid July 2021",2021-07-14,"MESO",2,"4",20,"Diatoms",4.82,1.82
+"1419","Mid July 2021",2021-07-14,"MESO",2,"4",20,"Green Algae",3.31,1.63
+"1420","Mid July 2021",2021-07-14,"MESO",2,"4",20,"Yellow Subst.",0.57,0.98
+"1421","Mid July 2021",2021-07-14,"MESO",4,"1",40,"Bluegreen",1.09,1.15
+"1422","Mid July 2021",2021-07-14,"MESO",4,"1",40,"Cryptophyta",0.26,0.22
+"1423","Mid July 2021",2021-07-14,"MESO",4,"1",40,"Diatoms",4.12,3.35
+"1424","Mid July 2021",2021-07-14,"MESO",4,"1",40,"Green Algae",2.56,1.04
+"1425","Mid July 2021",2021-07-14,"MESO",4,"1",40,"Yellow Subst.",0.69,0.91
+"1426","Mid July 2021",2021-07-14,"MESO",4,"2",40,"Bluegreen",1.29,1.24
+"1427","Mid July 2021",2021-07-14,"MESO",4,"2",40,"Cryptophyta",0.32,0.3
+"1428","Mid July 2021",2021-07-14,"MESO",4,"2",40,"Diatoms",4.04,3.55
+"1429","Mid July 2021",2021-07-14,"MESO",4,"2",40,"Green Algae",2.77,1.14
+"1430","Mid July 2021",2021-07-14,"MESO",4,"2",40,"Yellow Subst.",0.7,0.94
+"1431","Mid July 2021",2021-07-14,"MESO",4,"3",40,"Bluegreen",0.63,1.24
+"1432","Mid July 2021",2021-07-14,"MESO",4,"3",40,"Cryptophyta",0.32,0.47
+"1433","Mid July 2021",2021-07-14,"MESO",4,"3",40,"Diatoms",2.79,2.73
+"1434","Mid July 2021",2021-07-14,"MESO",4,"3",40,"Green Algae",1.63,1.09
+"1435","Mid July 2021",2021-07-14,"MESO",4,"3",40,"Yellow Subst.",0.45,0.94
+"1436","Mid July 2021",2021-07-14,"MESO",4,"4",40,"Bluegreen",0.95,1.31
+"1437","Mid July 2021",2021-07-14,"MESO",4,"4",40,"Cryptophyta",0.07,0.09
+"1438","Mid July 2021",2021-07-14,"MESO",4,"4",40,"Diatoms",4.03,3.56
+"1439","Mid July 2021",2021-07-14,"MESO",4,"4",40,"Green Algae",2.2,1.01
+"1440","Mid July 2021",2021-07-14,"MESO",4,"4",40,"Yellow Subst.",0.76,0.96
