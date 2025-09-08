@@ -225,9 +225,72 @@ p5b <- ggplot(dat_fin2, aes(x = GR_Ratio_Med, y = CR_Ratio_Med, color = Date, la
 ggsave('10_WBLE_2021_Fig5b_062424.png', p5b,
        width = 16, height = 16)
 
-## Figure 6
+## NEW Figure 6
+# Population CR (grazing mortality) vs. Food Growth Rate Figure
+# Population CR is the ind CR x Zoop biomass at the field site
+# Food Growth Rate is the y-Intercept of the Zoop Treatment-Food Change curve
+# Originally, we calculated grazing mortality using the avg ZP biomass in the experiment, but now we're using ZP field site bms
+p6 <- ggplot(dat_fin2, aes(x = Int_med, y = m_fld_med, shape = Date, color = Date, family = "serif", label = FoodType3)) +
+  geom_errorbar(aes(ymin = m_fld_10, ymax = m_fld_90)) +
+  geom_errorbarh(aes(xmin = Int_10, xmax = Int_90)) +
+  geom_hline(yintercept = 0, linewidth = 1) +
+  geom_vline(xintercept = 0, linewidth = 1) +
+  geom_segment(x = 0, y = 0, xend = 1.1, yend = 1.1,
+               col = "dark grey", linewidth = 1, linetype = "dashed") + # 100% standing stock grazed
+  geom_segment(x = 0, y = 0, xend = 1.0, yend = 1.5,
+               col = "dark grey", linewidth = 1, linetype = "dashed") +
+  geom_segment(x = 0, y = 0, xend = 2.0, yend = 1.0,
+               col = "dark grey", linewidth = 1, linetype = "dashed") +
+  geom_label(aes(size = 15, fill = factor(Date)), color = "white", fontface = "bold", position=position_jitter()) +
+  scale_fill_manual(values = c("#E69F00", "#0072B2"), guide = "none") +
+  scale_color_manual(values = c("#E69F00", "#0072B2")) +
+  labs( x = expression(paste("Food growth rate  ", (d^{-1}))), 
+        y = expression(paste("Grazing mortality rate  ", (d^{-1})))) +
+  xlim(-0.66, 1.04) +
+  ylim(-0.7, 0.75) +
+  guides(color = guide_legend(override.aes = list(size = 5))) +
+  annotate(geom="text", x = 0.65, y = 0.57, label = "100%",
+           color = "dark grey", size = 7, family = "serif") +
+  annotate(geom="text", x = 0.85, y = 0.38, label = "50%",
+           color = "dark grey", size = 7, family = "serif") +
+  annotate(geom="text", x = 0.5, y = 0.64, label = "150%",
+           color = "dark grey", size = 7, family = "serif") +
+  annotate(geom="text", x = .95, y = 0.68, label = "% growth \n consumed",
+           color = "black", size = 7,
+           fontface = "bold.italic", family = "serif") +
+  annotate(geom="text", x = -0.2, y = 0.66, label = "Positive grazing, \n food decline",
+           color = "black", size = 7,
+           fontface = "bold.italic", family = "serif") +
+  annotate(geom="text", x = -0.19, y = -0.6, label = "No grazing, \n food decline",
+           color = "black", size = 7,
+           fontface = "bold.italic", family = "serif") +
+  annotate(geom="text", x = 0.18, y = -0.6, label = "No grazing, \n food increase",
+           color = "black", size = 7,
+           fontface = "bold.italic", family = "serif") +
+  theme_bw() +
+  theme(text = element_text(family = "serif"),
+        axis.text.x = element_text(size = 23),
+        axis.title.x = element_text(size = 23),
+        axis.text.y = element_text(size=23),
+        axis.title.y = element_text(size=23),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        legend.position = "top",
+        legend.title = element_blank(), 
+        legend.text = element_text(size = 22),
+        panel.spacing = unit(0,'lines'),
+        strip.text = element_blank(),
+        plot.tag = element_text(size = 16),
+        plot.tag.position = c(0.13, .95))
+
+p6
+ggsave('10_WBLE_2021_Fig6_new.png', p6,
+       width = 14, height = 8)
+
+
+## OLD Figure 6
 # Population CR vs. Food Growth Rate Figure
-# Population CR is the ind CR x Avg Zoop density in Experiment
+# Population CR is the ind CR x Avg Zoop biomass in Experiment
 # Food Growth Rate is the y-Intercept of the Zoop Treatment-Food Change curve
 p6 <- ggplot(dat_fin2, aes(x = Int_med, y = m_med, shape = Date, color = Date, family = "serif", label = FoodType3)) +
       geom_errorbar(aes(ymin = m_10, ymax = m_90)) +

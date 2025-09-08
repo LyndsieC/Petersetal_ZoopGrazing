@@ -10,7 +10,10 @@ field_chl <- read.csv("00_ZP_grazing_field_chl_WBLE_2021.csv") %>%
   mutate(insitu_chla_ugC_L = insitu_chla_ugL * 30, # 30 is the carbon-chla conversion factor (determined from Strickland 1960 and Geider 1987)
          Event = case_when(Time == "EarlyAug" ~ "August",
                            Time == "EarlySep" ~ "September",
-                           TRUE ~ "NA"))
+                           TRUE ~ "NA"),
+         Type = "Chlorophyll-a",
+         Phyto_grp2 = "Total phytoplankton",
+         bms_ugCL = insitu_chla_ugC_L)
 
 # plot field chl
 png(file = "14_WBLE_FieldChla_Fige2b.png",

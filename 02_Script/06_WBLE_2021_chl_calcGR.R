@@ -37,9 +37,15 @@ chl_CR_GR <- chl_CR_growratej %>%
          m_med = CR_L_ugC_d_med * Zp_bms_exp_ugC_L, # calculate grazing mortality rate- ZP dens is the mean ZP dens in the grazing experiment treatments
          m_10 = CR_L_ugC_d_10 * Zp_bms_exp_ugC_L,
          m_90 = CR_L_ugC_d_90 * Zp_bms_exp_ugC_L,
+         m_fld_med = CR_L_ugC_d_med * Zp_bms_ugC_L, # calculate field grazing mortality rate-- ZP bms is from the field site
+         m_fld_10 = CR_L_ugC_d_10 * Zp_bms_ugC_L,
+         m_fld_90 = CR_L_ugC_d_90 * Zp_bms_ugC_L,
          per_upot_med = (m_med / Int_med) * 100,
          per_upot_10 = (m_10 / Int_med) * 100, # using median Intercept (u) for upper and lower bounds b/c that's the average food growth rate over the experiment
-         per_upot_90 = (m_90 / Int_med) * 100)
+         per_upot_90 = (m_90 / Int_med) * 100,
+         per_upot_fld_med = (m_fld_med / Int_med) * 100,
+         per_upot_fld_10 = (m_fld_10 / Int_med) * 100, # using median Intercept (u) for upper and lower bounds b/c that's the average food growth rate over the experiment
+         per_upot_fld_90 = (m_fld_90 / Int_med) * 100)
 
 # export raw values to csv
 write.csv(chl_CR_GR, "06_2021_36873_CRGR_chl_raw.csv")
@@ -57,6 +63,9 @@ chl_CR_GR2 <- chl_CR_GR %>%
          per_SS_grazed_90 = if_else(CR_mL_ugC_d_10 > 0, per_SS_grazed_90, 0),
          per_upot_med = if_else(CR_mL_ugC_d_10 > 0, per_upot_med, 0),
          per_upot_10 = if_else(CR_mL_ugC_d_10 > 0, per_upot_10, 0),
-         per_upot_90 = if_else(CR_mL_ugC_d_10 > 0, per_upot_90, 0))
+         per_upot_90 = if_else(CR_mL_ugC_d_10 > 0, per_upot_90, 0),
+         per_upot_fld_med = if_else(CR_mL_ugC_d_10 > 0, per_upot_fld_med, 0),
+         per_upot_fld_10 = if_else(CR_mL_ugC_d_10 > 0, per_upot_fld_10, 0),
+         per_upot_fld_90 = if_else(CR_mL_ugC_d_10 > 0, per_upot_fld_90, 0))
 
 write.csv(chl_CR_GR2, "06_2021_36873_CRGR_chl.csv")

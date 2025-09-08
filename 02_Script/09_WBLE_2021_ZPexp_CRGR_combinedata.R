@@ -93,7 +93,7 @@ all_dat4 <- all_dat3 %>%
          Date = fct_relevel(Date, "August", "September"))
 
 all_dat_fin <- all_dat4 %>% 
-  select(Time, Date, Int_med:CR_L_ugC_d_90, Zp_bms_ugC_L, Zp_bms_exp_ugC_L, GR_ugC_L_d_med:per_upot_90, Facet, FoodType, FoodAbund_ugC_L, GR_max:Foodi_FoodMax)
+  select(Time, Date, Int_med:CR_L_ugC_d_90, Zp_bms_ugC_L, Zp_bms_exp_ugC_L, GR_ugC_L_d_med:per_upot_fld_90, Facet, FoodType, FoodAbund_ugC_L, GR_max:Foodi_FoodMax)
 
 # export data to csv
 write.csv(all_dat_fin, "09_2021_36873_NanoPicoMS_CRGR_final.csv")
